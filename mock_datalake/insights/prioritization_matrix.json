@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-08-21T14:25:06.380426",
+  "total_analyzed_reviews": 1000,
+  "total_friction_points": 137,
+  "critical_count": 0,
+  "high_count": 2,
+  "medium_count": 94,
+  "low_count": 41,
+  "total_monthly_revenue_at_risk": 1678305750.0,
+  "top_3_actions": [
+    {
+      "rank": 1,
+      "action": "Fix 'general experience (negative)' in None",
+      "impact": "\u20b93.8Cr+ annual recovery potential",
+      "priority": "\ud83d\udfe0 HIGH"
+    },
+    {
+      "rank": 2,
+      "action": "Fix 'general experience (negative)' in None",
+      "impact": "\u20b93.6Cr+ annual recovery potential",
+      "priority": "\ud83d\udfe0 HIGH"
+    },
+    {
+      "rank": 3,
+      "action": "Fix 'general experience (negative)' in Fit/Fabric Uncertainty",
+      "impact": "\u20b969.1Cr+ annual recovery potential",
+      "priority": "\ud83d\udfe1 MEDIUM"
+    }
+  ]
+}

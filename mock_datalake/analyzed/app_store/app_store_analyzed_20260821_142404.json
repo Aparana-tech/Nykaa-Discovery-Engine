@@ -1,0 +1,606 @@
+[
+    {
+        "id": "14449640637",
+        "source": "app_store",
+        "text": "extremely disappointing experience with nykaa fashion i ordered a product from nykaa fashion on 5th august, which was supposed to be delivered on 10th august. the delivery kept getting delayed, and multiple times i received out for delivery updates, but i never received a call or message from the delivery person. later, the status would suddenly say that i was unavailable at home, which was completely untrue. i was home and available the entire time. i even tried contacting the delivery person, but he never responded and eventually blocked my number. i also tried contacting nykaa fashion customer care several times. initially, my calls were answered, but later the calls kept getting disconnected, and i couldnt get any proper assistance. now ive received an update saying that my order is being returned to the warehouse because of three failed delivery attempts, despite the fact that i was available and was never properly contacted. please guys, dont shop from nykaa fashion. i personally will never shop from them again. and dont fall for their offersespecially if you order an item on offer, because based on my experience, theyll make sure it never gets delivered. pathetic delivery service, pathetic customer support, and absolutely no accountability. extremely disappointing experience!",
+        "score": 1,
+        "timestamp": "20 August 2026",
+        "author": "Munashrah",
+        "title": "Order not delivered yet",
+        "original_text": "Extremely Disappointing Experience with Nykaa Fashion I ordered a product from Nykaa Fashion on 5th August, which was supposed to be delivered on 10th August. The delivery kept getting delayed, and multiple times I received “out for delivery” updates, but I never received a call or message from the delivery person. Later, the status would suddenly say that I was unavailable at home, which was completely untrue. I was home and available the entire time. I even tried contacting the delivery person, but he never responded and eventually blocked my number. I also tried contacting Nykaa Fashion customer care several times. Initially, my calls were answered, but later the calls kept getting disconnected, and I couldn’t get any proper assistance. Now I’ve received an update saying that my order is being returned to the warehouse because of three failed delivery attempts, despite the fact that I was available and was never properly contacted. Please guys, don’t shop from Nykaa Fashion. I personally will never shop from them again. And don’t fall for their offers—especially if you order an item on offer, because based on my experience, they’ll make sure it never gets delivered. Pathetic delivery service, pathetic customer support, and absolutely no accountability. Extremely disappointing experience!",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "delivery & returns",
+                    "sentiment": "negative",
+                    "quote": "extremely disappointing experience with nykaa fash..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14449619286",
+        "source": "app_store",
+        "text": "they deliver wrong orders and then their customer support never answers on the chat or phone for return related queries. i have been trying to get in touch for 2 days but no answer. worst experience. never going to order from nykka fashion in future.",
+        "score": 1,
+        "timestamp": "20 August 2026",
+        "author": "Singh.neha006",
+        "title": "Worst customer Support! Never order from Nykaa!!",
+        "original_text": "They deliver wrong orders and then their customer support never answers on the chat or phone for return related queries. I have been trying to get in touch for 2 days but no answer. Worst experience. Never going to order from nykka fashion in future.",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "delivery & returns",
+                    "sentiment": "negative",
+                    "quote": "they deliver wrong orders and then their customer ..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14447555951",
+        "source": "app_store",
+        "text": "very disappointed this is honestly one of the worst customer service experiences ive had with nykaa fashion. i had placed two orders. one was originally supposed to be delivered on august 15, but the delivery kept getting extended17th, 18th, and now its the 20th. i needed to return it, but once an order is placed, theres no option to cancel it. on top of that, when the deliveryreturn pickup was attempted, i was available and even tried contacting them, yet it was marked as if i wasnt available. ive been trying to reach nykaa fashion customer care continuously for the past 34 days. calls either dont get answered or simply get disconnected. i even contacted nykaa beauty customer care, and they answered immediately, but they said they had no option to transfer my call to nykaa fashion. then what exactly is the point of having customer support if customers cannot even reach the support team when there is an issue? for a brand as big as nykaa, this level of service is honestly unacceptable. extremely frustrating, disappointing and completely unresponsive.",
+        "score": 1,
+        "timestamp": "19 August 2026",
+        "author": "Athivigh",
+        "title": "Pathetic",
+        "original_text": "Very Disappointed This is honestly one of the worst customer service experiences I’ve had with Nykaa Fashion. I had placed two orders. One was originally supposed to be delivered on August 15, but the delivery kept getting extended—17th, 18th, and now it’s the 20th. I needed to return it, but once an order is placed, there’s no option to cancel it. On top of that, when the delivery/return pickup was attempted, I was available and even tried contacting them, yet it was marked as if I wasn’t available. I’ve been trying to reach Nykaa Fashion customer care continuously for the past 3–4 days. Calls either don’t get answered or simply get disconnected. I even contacted Nykaa Beauty customer care, and they answered immediately, but they said they had no option to transfer my call to Nykaa Fashion. Then what exactly is the point of having customer support if customers cannot even reach the support team when there is an issue? For a brand as big as Nykaa, this level of service is honestly unacceptable. Extremely frustrating, disappointing and completely unresponsive.",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "delivery & returns",
+                    "sentiment": "negative",
+                    "quote": "very disappointed this is honestly one of the wors..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14447289891",
+        "source": "app_store",
+        "text": "extremely disappointed with the service. i ordered a bewakoof product from nykaa fashion portal in late july. since the size didn't fit, i requested a replacement, which was confirmed on august 6th. it's been over 15 days now today is august 19th, and i still haven't received my replacement, nor have i received a update . no apology or proper communication from customer support either. i also tried reaching out through the nykaa fashion portal multiple times, but no resolution or help has been provided from their end. i've been a regular customer and never expected such poor service from a brand otherwise known for quality. i wanted this item for a festive gift, and this delay has completely ruined the purpose. very poor post-order service would think twice before ordering again.",
+        "score": 1,
+        "timestamp": "19 August 2026",
+        "author": "Shrashti Raipuria",
+        "title": "Disappointing Experience Despite Being a Regular Customer",
+        "original_text": "Extremely disappointed with the service. I ordered a Bewakoof product from Nykaa Fashion portal in late July. Since the size didn't fit, I requested a replacement, which was confirmed on August 6th. It's been over 15 days now (today is August 19th), and I still haven't received my replacement, nor have I received a update . No apology or proper communication from customer support either. I also tried reaching out through the Nykaa Fashion portal multiple times, but no resolution or help has been provided from their end. I've been a regular customer and never expected such poor service from a brand otherwise known for quality. I wanted this item for a festive gift, and this delay has completely ruined the purpose. Very poor post-order service — would think twice before ordering again.",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "sizing",
+                    "sentiment": "negative",
+                    "quote": "extremely disappointed with the service. i ordered..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [
+                    "size"
+                ],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "Fit/Fabric Uncertainty"
+        }
+    },
+    {
+        "id": "14446886046",
+        "source": "app_store",
+        "text": "order was repeatedly delayed from 10th to 22nd august, and despite multiple complaints, i kept receiving generic responses. even cancellation was not processed easily. very poor delivery and customer support experience.",
+        "score": 1,
+        "timestamp": "19 August 2026",
+        "author": "Gunj@97",
+        "title": "Very disappointing experience",
+        "original_text": "Order was repeatedly delayed from 10th to 22nd August, and despite multiple complaints, I kept receiving generic responses. Even cancellation was not processed easily. Very poor delivery and customer support experience.",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "delivery & returns",
+                    "sentiment": "negative",
+                    "quote": "order was repeatedly delayed from 10th to 22nd aug..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14446860882",
+        "source": "app_store",
+        "text": "the customer service of nykaa fashion is pathetic. i had placed return for my order and the agent is continuously rescheduling the pickup without contacting. the customer support is never reachable.",
+        "score": 1,
+        "timestamp": "19 August 2026",
+        "author": "DevanshiBansal",
+        "title": "Pathetic service",
+        "original_text": "The customer service of Nykaa fashion is pathetic. I had placed return for my order and the agent is continuously rescheduling the pickup without contacting. The customer support is never reachable.",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "delivery & returns",
+                    "sentiment": "negative",
+                    "quote": "the customer service of nykaa fashion is pathetic...."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14446469122",
+        "source": "app_store",
+        "text": "this is beyond frustrating. my return pickup was cancelled multiple times without any call or explanation. ive been following up for the last three months every time your team promises pickup within the next 3 days, but it never happens. i suggest not to buy anything from nykaa.",
+        "score": 1,
+        "timestamp": "19 August 2026",
+        "author": "J3nvi",
+        "title": "Pathetic app and services",
+        "original_text": "this is beyond frustrating. My return pickup was cancelled multiple times without any call or explanation. I’ve been following up for the last three months & every time your team promises pickup within the next 3 days, but it never happens. I suggest not to buy anything from Nykaa.",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "delivery & returns",
+                    "sentiment": "negative",
+                    "quote": "this is beyond frustrating. my return pickup was c..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14446246148",
+        "source": "app_store",
+        "text": "i am ordering these items from you again coz u cancelled these items after 5 days of thinking!!! i wanted the for event. hope i get them on time. nykaa dont spoil your name n reputation!",
+        "score": 1,
+        "timestamp": "19 August 2026",
+        "author": "Vijeyatathakur",
+        "title": "Bad show!!",
+        "original_text": "I am ordering these items from you again coz u cancelled these items after 5 days of thinking!!! I wanted the for event. Hope I get them on time. Nykaa don’t spoil your name n reputation!",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "general experience",
+                    "sentiment": "negative",
+                    "quote": "i am ordering these items from you again coz u can..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14442866231",
+        "source": "app_store",
+        "text": "youre service is tooo bad you scam with me",
+        "score": 1,
+        "timestamp": "18 August 2026",
+        "author": "Kali4444",
+        "title": "Scam",
+        "original_text": "You’re service is tooo bad you scam with me",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "general experience",
+                    "sentiment": "negative",
+                    "quote": "youre service is tooo bad you scam with me..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14441984642",
+        "source": "app_store",
+        "text": "if you want to return the product , they asked same question in every one hour and never respond you , you will feel frustrating they are scammers , i will upload the chat with customer service on google , you gave your money you got wrong product also you are helpless to return it ..",
+        "score": 1,
+        "timestamp": "18 August 2026",
+        "author": "Yogendra prasad kushwaha",
+        "title": "Bad customer service scammers",
+        "original_text": "If you want to return the product , they asked same question in every one hour and never respond you , you will feel frustrating they are scammers , i will upload the chat with customer service on google , you gave your money you got wrong product also you are helpless to return it ..",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "delivery & returns",
+                    "sentiment": "negative",
+                    "quote": "if you want to return the product , they asked sam..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14441575304",
+        "source": "app_store",
+        "text": "i tried to return my order as the size was bigger , i chased them for whole 1520 days to return one item , and they are still saying weve raised your queries will return within 35 days , their 3-5 days take 15 days and still no solutions",
+        "score": 1,
+        "timestamp": "18 August 2026",
+        "author": "Lucifer Morningstar1611",
+        "title": "Worst worst worst shopping experience",
+        "original_text": "I tried to return my order as the size was bigger , I chased them for whole 15/20 days to return one item , and they are still saying we’ve raised your queries will return within 3/5 days , their 3-5 days take 15 days and still no solutions",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "sizing",
+                    "sentiment": "negative",
+                    "quote": "i tried to return my order as the size was bigger ..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [
+                    "size"
+                ],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "Fit/Fabric Uncertainty"
+        }
+    },
+    {
+        "id": "14439384018",
+        "source": "app_store",
+        "text": "the delivery agent assigned for the return pickup visited my address. he claimed he had forgotten his mobile phone and requested that i hand over the return items, promising to scan them later from his home to determine refund eligibility. trusting the process, i handed over the package. shortly afterward, i was shocked to find that my refund had been marked as cancelled. your customer care helpline has been completely unhelpful, keeping me on hold for over 10 minutes multiple times, wasting more than half an hour of my time with no resolution. this is a direct case of delivery agent misconduct and courier fraud. i expect the platform to take responsibility for its representatives.",
+        "score": 1,
+        "timestamp": "17 August 2026",
+        "author": "Anju0402",
+        "title": "Very poor customer service",
+        "original_text": "The delivery agent assigned for the return pickup visited my address. He claimed he had forgotten his mobile phone and requested that I hand over the return items, promising to scan them later from his home to determine refund eligibility. Trusting the process, I handed over the package. Shortly afterward, I was shocked to find that my refund had been marked as cancelled. ​Your customer care helpline has been completely unhelpful, keeping me on hold for over 10 minutes multiple times, wasting more than half an hour of my time with no resolution. ​This is a direct case of delivery agent misconduct and courier fraud. I expect the platform to take responsibility for its representatives.",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "delivery & returns",
+                    "sentiment": "negative",
+                    "quote": "the delivery agent assigned for the return pickup ..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14438147530",
+        "source": "app_store",
+        "text": "ordered first time nike running shoes from this app. it supposed to reach me on 13 aug 26. but my package not delivered . there is no option for cancellation of order while in transit. nykka customer care is the worst of all . they dont respond at all. only bot send messages like incovenience caused is deeply regreted. no body telling me reason of delay. i am stuck on this app . its almost impossible to reach customer care on this app. zero rating for this app never buy from it.",
+        "score": 1,
+        "timestamp": "17 August 2026",
+        "author": "Pathetic Nykaa Fashion",
+        "title": "Very poor customer support.",
+        "original_text": "Ordered first time nike running shoes from this app. It supposed to reach me on 13 Aug 26. But my package not delivered . there is no option for cancellation of order while in transit. Nykka customer care is the worst of all . they dont respond at all. Only bot send messages like incovenience caused is deeply regreted. No body telling me reason of delay. I am stuck on this app . Its almost impossible to reach customer care on this app. Zero rating for this app never buy from it.",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "general experience",
+                    "sentiment": "negative",
+                    "quote": "ordered first time nike running shoes from this ap..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14438084274",
+        "source": "app_store",
+        "text": "in my past order i received different product instead of ordered one. but after calling so many times my issue was not resolved and after receiving few times messages of pickup no one came and suddenly one day nykaa cancelled my return request without my consent.",
+        "score": 3,
+        "timestamp": "17 August 2026",
+        "author": "Aayushi67",
+        "title": "Needs to improve Customer service",
+        "original_text": "In my past order i received different product instead of ordered one. But after calling so many times my issue was not resolved and after receiving few times messages of pickup no one came and suddenly one day nykaa cancelled my return request without my consent.",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "delivery & returns",
+                    "sentiment": "negative",
+                    "quote": "in my past order i received different product inst..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14437314728",
+        "source": "app_store",
+        "text": "very rude and unhelpful customer care representatives, the order was picked up but marked as pick up failed - the logistics partners can steal the products and get away with it and nykaa will not take any accountability",
+        "score": 1,
+        "timestamp": "17 August 2026",
+        "author": "prbag",
+        "title": "No accountability of logistics partners",
+        "original_text": "Very rude and unhelpful customer care representatives, the order was picked up but marked as pick up failed - the logistics partners can steal the products and get away with it and Nykaa will not take any accountability",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "general experience",
+                    "sentiment": "negative",
+                    "quote": "very rude and unhelpful customer care representati..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14435998870",
+        "source": "app_store",
+        "text": "very bad services worst app ever",
+        "score": 1,
+        "timestamp": "16 August 2026",
+        "author": "Bekar service of ola",
+        "title": "Worst service",
+        "original_text": "Very bad services worst app ever",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "general experience",
+                    "sentiment": "negative",
+                    "quote": "very bad services worst app ever..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14434644350",
+        "source": "app_store",
+        "text": "3rd party delivery partner",
+        "score": 1,
+        "timestamp": "16 August 2026",
+        "author": "Llljsdub",
+        "title": "Vary bad service",
+        "original_text": "3rd party delivery partner",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "delivery & returns",
+                    "sentiment": "negative",
+                    "quote": "3rd party delivery partner..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14430095560",
+        "source": "app_store",
+        "text": "i ordered skybags 22l it takes 2 weeks",
+        "score": 1,
+        "timestamp": "15 August 2026",
+        "author": "Sunil Gauta",
+        "title": "order delayed",
+        "original_text": "I ordered Skybags 22l It takes 2 weeks",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "general experience",
+                    "sentiment": "negative",
+                    "quote": "i ordered skybags 22l it takes 2 weeks..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14429554228",
+        "source": "app_store",
+        "text": "i had placed a return request for 3 products, there was a serial number mismatch with what ive received and it was different number for delivery person, because of this the order was not picked up. i sent mail with images and everything, but yet my issue didnt get resolved, apart from this the worst part is the customer care contact you gotta wait minimum 10 mins to connect with them and some non sense people make u wait for 20 minutes and then immediately cut the call, then agaon to connect with another customer care executive wait for 10 mins, absolute non sense. ill never ever purchase anything from here ever again",
+        "score": 1,
+        "timestamp": "15 August 2026",
+        "author": "Amrutha-07",
+        "title": "Worst e com app , queries are but resolved and huge loss of money",
+        "original_text": "I had placed a return request for 3 products, there was a serial number mismatch with what I’ve received and it was different number for delivery person, because of this the order was not picked up. I sent mail with images and everything, but yet my issue didn’t get resolved, apart from this the worst part is the customer care contact you gotta wait minimum 10 mins to connect with them and some non sense people make u wait for 20 minutes and then immediately cut the call, then agaon to connect with another customer care executive wait for 10 mins, absolute non sense. I’ll never ever purchase anything from here ever again",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "delivery & returns",
+                    "sentiment": "negative",
+                    "quote": "i had placed a return request for 3 products, ther..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14427290738",
+        "source": "app_store",
+        "text": "pathetic service , way too with its service and no response on customer care calls , or messages or mails . no point of contact and all , orders takes decades to reach you on cancelling refund takes another decade to get initiated. trust me choose other apps over this app",
+        "score": 1,
+        "timestamp": "14 August 2026",
+        "author": "RinS19",
+        "title": "Pathetic brand",
+        "original_text": "Pathetic service , way too with its service and no response on customer care calls , or messages or mails . No point of contact and all , orders takes decades to reach you on cancelling refund takes another decade to get initiated. Trust me choose other apps over this app",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "general experience",
+                    "sentiment": "negative",
+                    "quote": "pathetic service , way too with its service and no..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14425988670",
+        "source": "app_store",
+        "text": "i ordered the clothing and i recieved it without tags and beey cheap copy of what was shown in the website and somehow they do not allow return of this product and customer support is not at helpful",
+        "score": 1,
+        "timestamp": "14 August 2026",
+        "author": "Varsha222111",
+        "title": "Very bad customer support",
+        "original_text": "I ordered the clothing and I recieved it without tags and beey cheap copy of what was shown in the website and somehow they do not allow return of this product and customer support is not at helpful",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "delivery & returns",
+                    "sentiment": "negative",
+                    "quote": "i ordered the clothing and i recieved it without t..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14425734631",
+        "source": "app_store",
+        "text": "thorough professional,really patient,great communication skills",
+        "score": 5,
+        "timestamp": "14 August 2026",
+        "author": "dr anupama",
+        "title": "Akbar Shaikh",
+        "original_text": "Thorough professional,really patient,great communication skills",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "general experience",
+                    "sentiment": "positive",
+                    "quote": "thorough professional,really patient,great communi..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14425614991",
+        "source": "app_store",
+        "text": "vgood",
+        "score": 5,
+        "timestamp": "14 August 2026",
+        "author": "erfath",
+        "title": "good",
+        "original_text": "vgood",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "general experience",
+                    "sentiment": "positive",
+                    "quote": "vgood..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14425562874",
+        "source": "app_store",
+        "text": "i have call multiple times but not received any response",
+        "score": 1,
+        "timestamp": "14 August 2026",
+        "author": "Hặc đóng a",
+        "title": "Bad customer care",
+        "original_text": "I have call multiple times but not received any response",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "general experience",
+                    "sentiment": "negative",
+                    "quote": "i have call multiple times but not received any re..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "14425332044",
+        "source": "app_store",
+        "text": "worst place to order anything. no guarantee in case if you receive a damaged product. just keep delaying everything and in the end there is no result.",
+        "score": 1,
+        "timestamp": "14 August 2026",
+        "author": "Abhishek24466",
+        "title": "Worst app",
+        "original_text": "Worst place to order anything. No guarantee in case if you receive a damaged product. Just keep delaying everything and in the end there is no result.",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "general experience",
+                    "sentiment": "negative",
+                    "quote": "worst place to order anything. no guarantee in cas..."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    }
+]

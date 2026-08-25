@@ -1,0 +1,50 @@
+[
+    {
+        "id": "qa_PID_89324_1",
+        "source": "internal_pdp_qa",
+        "text": "q is this top see-through? a yes, it requires a camisole underneath as the fabric is quite sheer in the light.",
+        "score": 0,
+        "timestamp": "1787141874.930645",
+        "author": "verified_buyer_1",
+        "original_text": "Q: Is this top see-through? A: Yes, it requires a camisole underneath as the fabric is quite sheer in the light.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199981, Requested 2252. Please try again in 16m4.656s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "qa_PID_89324_2",
+        "source": "internal_pdp_qa",
+        "text": "q i am 5'4, will this dress touch the floor? a no, it hits just above the ankle for someone 5'4.",
+        "score": 0,
+        "timestamp": "1787141874.930677",
+        "author": "verified_buyer_2",
+        "original_text": "Q: I am 5'4, will this dress touch the floor? A: No, it hits just above the ankle for someone 5'4.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199981, Requested 240. Please try again in 1m35.472s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "qa_PID_10923_1",
+        "source": "internal_pdp_qa",
+        "text": "q is this top see-through? a yes, it requires a camisole underneath as the fabric is quite sheer in the light.",
+        "score": 0,
+        "timestamp": "1787141874.9306822",
+        "author": "verified_buyer_1",
+        "original_text": "Q: Is this top see-through? A: Yes, it requires a camisole underneath as the fabric is quite sheer in the light.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199981, Requested 2252. Please try again in 16m4.656s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "qa_PID_10923_2",
+        "source": "internal_pdp_qa",
+        "text": "q i am 5'4, will this dress touch the floor? a no, it hits just above the ankle for someone 5'4.",
+        "score": 0,
+        "timestamp": "1787141874.930683",
+        "author": "verified_buyer_2",
+        "original_text": "Q: I am 5'4, will this dress touch the floor? A: No, it hits just above the ankle for someone 5'4.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199980, Requested 240. Please try again in 1m35.04s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    }
+]

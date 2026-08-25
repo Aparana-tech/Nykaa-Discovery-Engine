@@ -1,0 +1,38 @@
+[
+    {
+        "id": "mock_r_0",
+        "source": "reddit_r/IndianFashionAddicts",
+        "text": "i ordered this dress from nykaa, the fabric is nice but the fit is terribly tight around the bust.",
+        "score": 150,
+        "timestamp": "1787081025.3449159",
+        "author": "mock_user1",
+        "original_text": "I ordered this dress from Nykaa, the fabric is nice but the fit is terribly tight around the bust."
+    },
+    {
+        "id": "mock_r_1_b",
+        "source": "reddit_r/IndianBeautyDeals",
+        "text": "got a great deal, but it looks completely different from the pdp images. the color is washed out.",
+        "score": 89,
+        "timestamp": "1787081025.344925",
+        "author": "mock_user2",
+        "original_text": "Got a great deal, but it looks completely different from the PDP images. The color is washed out."
+    },
+    {
+        "id": "mock_r_1",
+        "source": "reddit_r/IndianFashionAddicts",
+        "text": "i ordered this dress from nykaa, the fabric is nice but the fit is terribly tight around the bust.",
+        "score": 150,
+        "timestamp": "1787081025.344927",
+        "author": "mock_user1",
+        "original_text": "I ordered this dress from Nykaa, the fabric is nice but the fit is terribly tight around the bust."
+    },
+    {
+        "id": "mock_r_2_b",
+        "source": "reddit_r/IndianBeautyDeals",
+        "text": "got a great deal, but it looks completely different from the pdp images. the color is washed out.",
+        "score": 89,
+        "timestamp": "1787081025.344928",
+        "author": "mock_user2",
+        "original_text": "Got a great deal, but it looks completely different from the PDP images. The color is washed out."
+    }
+]

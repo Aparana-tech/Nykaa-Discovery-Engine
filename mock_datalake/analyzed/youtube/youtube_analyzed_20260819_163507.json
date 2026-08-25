@@ -1,0 +1,117 @@
+[
+    {
+        "id": "UgzQktyNk7ukhSixV5B4AaABAg",
+        "source": "youtube_Vq4g8L2mVM4",
+        "text": "links chaiye toh dress ka color comment kardena",
+        "score": 17,
+        "timestamp": "2026-05-01T19:46:09Z",
+        "author": "@ishitanand",
+        "original_text": "Links chaiye toh dress ka color comment kardena ⬇️🥰",
+        "groq_analysis": {
+            "aspects": [],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "UgxqQ9cTOHyH4GzruJN4AaABAg",
+        "source": "youtube_Vq4g8L2mVM4",
+        "text": "red one link pls",
+        "score": 0,
+        "timestamp": "2026-08-17T13:35:46Z",
+        "author": "@eshitabiswas3772",
+        "original_text": "Red one link pls❤",
+        "groq_analysis": {
+            "aspects": [],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "UgzR-5jL2jMxC-lEM3x4AaABAg",
+        "source": "youtube_Vq4g8L2mVM4",
+        "text": "fraud company nykaa fashion",
+        "score": 0,
+        "timestamp": "2026-08-14T17:04:27Z",
+        "author": "@akshatajadhav4542",
+        "original_text": "Fraud Company Nykaa Fashion",
+        "groq_analysis": {
+            "aspects": [],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "UgyFrik_d_HCq0il63t4AaABAg",
+        "source": "youtube_z79QZX2ys8w",
+        "text": "individual product links 1. safa chikankari muslin a-line kurta - white httpswww.wishlink.comshare5bb7s 2. malak chikankari modal straight kurta and palazzo set of 2 httpswww.wishlink.comsharerrezy 3. linen cotton rose pink kurta pant set set of 2 httpswww.wishlink.comshareptz65 4. womens peach blue yoke mirror work kurta with pant and dupatta set of 3 httpswww.wishlink.comshare6dqnv 5. white printed cotton kurti with palazzo set of 2 httpswww.wishlink.comsharewnfb7 6. women white cotton blend printed kurta trousers with dupatta set of 3 httpswww.wishlink.comshare2qp8b 7. firozi doria set of 3 httpswww.wishlink.comshare852xw 8. myshka women blue printed kurta trouser set of 2 httpswww.wishlink.comsharemgzt4 9. women navy blue cotton blend ethnic motifs printed kurta trouser with dupatta set of 3 httpswww.wishlink.comsharezeb9f thank you",
+        "score": 14,
+        "timestamp": "2024-04-09T05:09:38Z",
+        "author": "@rupalyadav",
+        "original_text": "*Individual Product Links:* \n\n1. Safa Chikankari Muslin A-line Kurta - White: https://www.wishlink.com/share/5bb7s\n\n2. Malak Chikankari Modal Straight Kurta and Palazzo (Set of 2): https://www.wishlink.com/share/rrezy\n\n3. Linen Cotton Rose Pink Kurta & Pant Set (Set of 2): https://www.wishlink.com/share/ptz65\n\n4. Womens Peach & Blue Yoke Mirror Work Kurta with Pant and Dupatta (Set of 3): https://www.wishlink.com/share/6dqnv\n\n5. White Printed Cotton Kurti With Palazzo (Set of 2): https://www.wishlink.com/share/wnfb7\n\n6. Women White Cotton Blend Printed Kurta Trousers with Dupatta (Set of 3): https://www.wishlink.com/share/2qp8b\n\n7. Firozi Doria (Set of 3): https://www.wishlink.com/share/852xw\n\n8. MYSHKA Women Blue Printed Kurta & Trouser (Set of 2): https://www.wishlink.com/share/mgzt4\n\n9. Women Navy Blue Cotton Blend Ethnic Motifs Printed Kurta Trouser with Dupatta (Set of 3): https://www.wishlink.com/share/zeb9f\n\nThank you ❤️",
+        "groq_analysis": {
+            "aspects": [],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": [
+                    "muslin",
+                    "modal",
+                    "linen cotton",
+                    "cotton",
+                    "cotton blend",
+                    "doria"
+                ]
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "UgwKm-oCb-PoqhuZAch4AaABAg",
+        "source": "youtube_z79QZX2ys8w",
+        "text": "whats ur height",
+        "score": 0,
+        "timestamp": "2026-08-15T06:41:27Z",
+        "author": "@RiyaKumari-cc8rp",
+        "original_text": "Whats ur height",
+        "groq_analysis": {
+            "aspects": [],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "Fit/Fabric Uncertainty"
+        }
+    },
+    {
+        "id": "UgzvZz8SE3omke68ucx4AaABAg",
+        "source": "youtube_z79QZX2ys8w",
+        "text": "beautiful sets",
+        "score": 0,
+        "timestamp": "2025-04-05T05:35:14Z",
+        "author": "@nishavasudevan",
+        "original_text": "Beautiful sets",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "sets",
+                    "sentiment": "positive",
+                    "quote": "beautiful sets"
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    }
+]

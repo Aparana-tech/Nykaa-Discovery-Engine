@@ -1,0 +1,264 @@
+[
+  {
+    "rank": 1,
+    "cluster_id": 42,
+    "friction_point": "Fabric Sheerness & Quality Disconnect",
+    "mapped_barrier": "Fit/Fabric Uncertainty",
+    "recommendation": "The psychological cause is the inability to gauge material density from static, studio-lit images. Add 5-second close-up video snippets showing fabric drape and sheerness under natural light to rebuild trust.",
+    "composite_score": 0.89,
+    "priority": "\ud83d\udd34 CRITICAL",
+    "scores_breakdown": {
+      "severity": {
+        "raw_sentiment": "Negative"
+      },
+      "cross_platform": {
+        "count": 2
+      }
+    },
+    "business_impact": {
+      "estimated_monthly_revenue_at_risk": 5400000.0,
+      "dominant_funnel_barrier": "Fit/Fabric Uncertainty",
+      "affected_categories": [
+        "Western Wear",
+        "Dresses"
+      ]
+    },
+    "evidence": {
+      "review_count": 184,
+      "exact_quote": "The pictures made it look like a solid cotton dress, but it arrived and it completely see-through. I cannot wear this to the office. Wasted my money.",
+      "sample_quotes": [
+        "The pictures made it look like a solid cotton dress, but it arrived and it completely see-through. I cannot wear this to the office. Wasted my money.",
+        "Material is very thin and cheap feeling, unlike the photo.",
+        "Completely sheer. Have to return it."
+      ],
+      "platforms": [
+        "App Store",
+        "Play Store"
+      ]
+    }
+  },
+  {
+    "rank": 2,
+    "cluster_id": 18,
+    "friction_point": "Inconsistent Sizing Across Brands",
+    "mapped_barrier": "Choice Paralysis",
+    "recommendation": "Users experience choice paralysis because a Medium in one brand fits like an Extra Small in another. Implement a universal size-mapping tool that translates sizes based on a users past successful purchases.",
+    "composite_score": 0.82,
+    "priority": "\ud83d\udd34 HIGH",
+    "scores_breakdown": {
+      "severity": {
+        "raw_sentiment": "Negative"
+      },
+      "cross_platform": {
+        "count": 2
+      }
+    },
+    "business_impact": {
+      "estimated_monthly_revenue_at_risk": 4200000.0,
+      "dominant_funnel_barrier": "Choice Paralysis",
+      "affected_categories": [
+        "Activewear",
+        "Jeans"
+      ]
+    },
+    "evidence": {
+      "review_count": 156,
+      "exact_quote": "I ordered my usual size M but this top was so tight I could not even breathe. Why is the sizing so different for every brand on Nykaa? I am returning it.",
+      "sample_quotes": [
+        "I ordered my usual size M but this top was so tight I could not even breathe. Why is the sizing so different for every brand on Nykaa? I am returning it.",
+        "Brand X size L is huge, Brand Y size L is tiny. Cannot trust sizing anymore.",
+        "Too small. Not true to size chart."
+      ],
+      "platforms": [
+        "Play Store",
+        "Reddit"
+      ]
+    }
+  },
+  {
+    "rank": 3,
+    "cluster_id": 55,
+    "friction_point": "Misleading Color Representation",
+    "mapped_barrier": "Trust in Product Representation",
+    "recommendation": "Studio flashes wash out actual garment colors, leading to high return rates. Add a True Color badge and require vendors to upload at least one unedited smartphone photo of the garment.",
+    "composite_score": 0.76,
+    "priority": "\ud83d\udd34 HIGH",
+    "scores_breakdown": {
+      "severity": {
+        "raw_sentiment": "Negative"
+      },
+      "cross_platform": {
+        "count": 2
+      }
+    },
+    "business_impact": {
+      "estimated_monthly_revenue_at_risk": 3100000.0,
+      "dominant_funnel_barrier": "Trust in Product Representation",
+      "affected_categories": [
+        "Ethnic Wear",
+        "Lehengas"
+      ]
+    },
+    "evidence": {
+      "review_count": 112,
+      "exact_quote": "The lehenga looked bright royal blue on the app, but what I received is a dull navy. I bought this for a specific wedding theme and now I have nothing to wear.",
+      "sample_quotes": [
+        "The lehenga looked bright royal blue on the app, but what I received is a dull navy. I bought this for a specific wedding theme and now I have nothing to wear.",
+        "Color is completely different from the pictures. Very disappointed.",
+        "Looks red online but is actually maroon."
+      ],
+      "platforms": [
+        "App Store",
+        "YouTube"
+      ]
+    }
+  },
+  {
+    "rank": 4,
+    "cluster_id": 21,
+    "friction_point": "Return Policy Friction on Sale Items",
+    "mapped_barrier": "Post-Purchase Anxiety",
+    "recommendation": "Users feel tricked when they find out an item is non-returnable only after receiving it. Move the Non-Returnable tag from the fine print directly next to the Add to Cart button.",
+    "composite_score": 0.65,
+    "priority": "\ud83d\udfe1 MEDIUM",
+    "scores_breakdown": {
+      "severity": {
+        "raw_sentiment": "Negative"
+      },
+      "cross_platform": {
+        "count": 1
+      }
+    },
+    "business_impact": {
+      "estimated_monthly_revenue_at_risk": 1800000.0,
+      "dominant_funnel_barrier": "Post-Purchase Anxiety",
+      "affected_categories": [
+        "Clearance",
+        "Accessories"
+      ]
+    },
+    "evidence": {
+      "review_count": 89,
+      "exact_quote": "Bought a dress on clearance and it did not fit. Went to return it and saw the tiny text saying sale items are final. Super unfair deceptive practice.",
+      "sample_quotes": [
+        "Bought a dress on clearance and it did not fit. Went to return it and saw the tiny text saying sale items are final. Super unfair deceptive practice.",
+        "Cannot return sale items? Will not buy again.",
+        "Hidden return policy ruined my experience."
+      ],
+      "platforms": [
+        "Play Store"
+      ]
+    }
+  },
+  {
+    "rank": 5,
+    "cluster_id": 34,
+    "friction_point": "Lack of Model Diversity for Fit Context",
+    "mapped_barrier": "Fit/Fabric Uncertainty",
+    "recommendation": "Users struggle to project how clothes will look on their body type when models are uniform. Integrate an automated UGC photo carousel sourced from reviews onto the main product page.",
+    "composite_score": 0.58,
+    "priority": "\ud83d\udfe1 MEDIUM",
+    "scores_breakdown": {
+      "severity": {
+        "raw_sentiment": "Neutral"
+      },
+      "cross_platform": {
+        "count": 2
+      }
+    },
+    "business_impact": {
+      "estimated_monthly_revenue_at_risk": 1200000.0,
+      "dominant_funnel_barrier": "Fit/Fabric Uncertainty",
+      "affected_categories": [
+        "Jeans",
+        "Tops"
+      ]
+    },
+    "evidence": {
+      "review_count": 64,
+      "exact_quote": "It is really hard to tell how these jeans will look on someone with curves. The model is 5 foot 9 and super thin, I wish they showed pictures of normal buyers wearing it.",
+      "sample_quotes": [
+        "It is really hard to tell how these jeans will look on someone with curves. The model is 5 foot 9 and super thin, I wish they showed pictures of normal buyers wearing it.",
+        "Need models of different sizes to see actual fit.",
+        "Hard to buy when models do not look like me."
+      ],
+      "platforms": [
+        "Reddit",
+        "App Store"
+      ]
+    }
+  },
+  {
+    "rank": 6,
+    "cluster_id": 12,
+    "friction_point": "Poor Search Filtering for Occasions",
+    "mapped_barrier": "Taxonomy Disconnect",
+    "recommendation": "Users do not always shop by category, they shop by vibe. Revamp the search filters to allow event-based and aesthetic-based filtering.",
+    "composite_score": 0.52,
+    "priority": "\ud83d\udfe1 MEDIUM",
+    "scores_breakdown": {
+      "severity": {
+        "raw_sentiment": "Neutral"
+      },
+      "cross_platform": {
+        "count": 1
+      }
+    },
+    "business_impact": {
+      "estimated_monthly_revenue_at_risk": 600000.0,
+      "dominant_funnel_barrier": "Taxonomy Disconnect",
+      "affected_categories": [
+        "All Categories"
+      ]
+    },
+    "evidence": {
+      "review_count": 45,
+      "exact_quote": "Trying to find an outfit for an office Diwali party. The filters only let me sort by brand or price, I just want to see Festive Formal. Took me 2 hours to find something.",
+      "sample_quotes": [
+        "Trying to find an outfit for an office Diwali party. The filters only let me sort by brand or price, I just want to see Festive Formal. Took me 2 hours to find something.",
+        "Why can I not search by wedding guest?",
+        "Search filters are too basic, hard to find specific styles."
+      ],
+      "platforms": [
+        "Play Store"
+      ]
+    }
+  },
+  {
+    "rank": 7,
+    "cluster_id": 9,
+    "friction_point": "Delivery Delays for Ethnic Wear",
+    "mapped_barrier": "Fulfillment Anxiety",
+    "recommendation": "High-ticket ethnic wear is often bought for specific deadlines. Implement a Guaranteed Delivery Date badge specifically for the Ethnic Wear category to reduce pre-purchase anxiety.",
+    "composite_score": 0.48,
+    "priority": "\ud83d\udfe1 MEDIUM",
+    "scores_breakdown": {
+      "severity": {
+        "raw_sentiment": "Negative"
+      },
+      "cross_platform": {
+        "count": 2
+      }
+    },
+    "business_impact": {
+      "estimated_monthly_revenue_at_risk": 400000.0,
+      "dominant_funnel_barrier": "Fulfillment Anxiety",
+      "affected_categories": [
+        "Ethnic Wear"
+      ]
+    },
+    "evidence": {
+      "review_count": 38,
+      "exact_quote": "Ordered a saree a week before my sisters engagement. It showed shipped but took 10 days to arrive. I had to buy a backup outfit from a local mall. Really frustrating.",
+      "sample_quotes": [
+        "Ordered a saree a week before my sisters engagement. It showed shipped but took 10 days to arrive. I had to buy a backup outfit from a local mall. Really frustrating.",
+        "Delivery took forever, missed the event.",
+        "Tracking did not update and it arrived 3 days late."
+      ],
+      "platforms": [
+        "YouTube",
+        "Play Store"
+      ]
+    }
+  }
+]

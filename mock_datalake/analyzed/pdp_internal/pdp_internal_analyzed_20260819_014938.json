@@ -1,0 +1,98 @@
+[
+    {
+        "id": "qa_PID_89324_1",
+        "source": "internal_pdp_qa",
+        "text": "q is this top see-through? a yes, it requires a camisole underneath as the fabric is quite sheer in the light.",
+        "score": 0,
+        "timestamp": "1787084350.102701",
+        "author": "verified_buyer_1",
+        "original_text": "Q: Is this top see-through? A: Yes, it requires a camisole underneath as the fabric is quite sheer in the light.",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "sheerness",
+                    "sentiment": "negative",
+                    "quote": "the fabric is quite sheer in the light"
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "Fit/Fabric Uncertainty"
+        }
+    },
+    {
+        "id": "qa_PID_89324_2",
+        "source": "internal_pdp_qa",
+        "text": "q i am 5'4, will this dress touch the floor? a no, it hits just above the ankle for someone 5'4.",
+        "score": 0,
+        "timestamp": "1787084350.102724",
+        "author": "verified_buyer_2",
+        "original_text": "Q: I am 5'4, will this dress touch the floor? A: No, it hits just above the ankle for someone 5'4.",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "length",
+                    "sentiment": "neutral",
+                    "quote": "it hits just above the ankle for someone 5'4."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [
+                    "5'4"
+                ],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "Fit/Fabric Uncertainty"
+        }
+    },
+    {
+        "id": "qa_PID_10923_1",
+        "source": "internal_pdp_qa",
+        "text": "q is this top see-through? a yes, it requires a camisole underneath as the fabric is quite sheer in the light.",
+        "score": 0,
+        "timestamp": "1787084350.1027358",
+        "author": "verified_buyer_1",
+        "original_text": "Q: Is this top see-through? A: Yes, it requires a camisole underneath as the fabric is quite sheer in the light.",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "sheerness",
+                    "sentiment": "negative",
+                    "quote": "the fabric is quite sheer in the light"
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "Fit/Fabric Uncertainty"
+        }
+    },
+    {
+        "id": "qa_PID_10923_2",
+        "source": "internal_pdp_qa",
+        "text": "q i am 5'4, will this dress touch the floor? a no, it hits just above the ankle for someone 5'4.",
+        "score": 0,
+        "timestamp": "1787084350.1027389",
+        "author": "verified_buyer_2",
+        "original_text": "Q: I am 5'4, will this dress touch the floor? A: No, it hits just above the ankle for someone 5'4.",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "length",
+                    "sentiment": "neutral",
+                    "quote": "it hits just above the ankle for someone 5'4."
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [
+                    "5'4"
+                ],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "Fit/Fabric Uncertainty"
+        }
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": "mock_yt_0",
+        "source": "youtube_mock_video",
+        "text": "The try-on haul looks great, but what size did she actually wear? I can't tell if it has stretch.",
+        "score": 45,
+        "timestamp": "2023-10-01T12:00:00Z",
+        "author": "mock_yt_viewer"
+    },
+    {
+        "id": "mock_yt_1_b",
+        "source": "youtube_mock_video",
+        "text": "I bought this same top and the lining is totally missing. Don't buy it!",
+        "score": 12,
+        "timestamp": "2023-10-02T14:30:00Z",
+        "author": "mock_yt_reviewer2"
+    },
+    {
+        "id": "mock_yt_1",
+        "source": "youtube_mock_video",
+        "text": "The try-on haul looks great, but what size did she actually wear? I can't tell if it has stretch.",
+        "score": 45,
+        "timestamp": "2023-10-01T12:00:00Z",
+        "author": "mock_yt_viewer"
+    },
+    {
+        "id": "mock_yt_2_b",
+        "source": "youtube_mock_video",
+        "text": "I bought this same top and the lining is totally missing. Don't buy it!",
+        "score": 12,
+        "timestamp": "2023-10-02T14:30:00Z",
+        "author": "mock_yt_reviewer2"
+    },
+    {
+        "id": "mock_yt_2",
+        "source": "youtube_mock_video",
+        "text": "The try-on haul looks great, but what size did she actually wear? I can't tell if it has stretch.",
+        "score": 45,
+        "timestamp": "2023-10-01T12:00:00Z",
+        "author": "mock_yt_viewer"
+    },
+    {
+        "id": "mock_yt_3_b",
+        "source": "youtube_mock_video",
+        "text": "I bought this same top and the lining is totally missing. Don't buy it!",
+        "score": 12,
+        "timestamp": "2023-10-02T14:30:00Z",
+        "author": "mock_yt_reviewer2"
+    }
+]

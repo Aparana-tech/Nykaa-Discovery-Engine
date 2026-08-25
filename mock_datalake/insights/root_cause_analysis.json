@@ -1,0 +1,3553 @@
+{
+  "root_causes": [
+    {
+      "cluster_id": 40,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "Fit/Fabric Uncertainty",
+      "dominant_feature": "general experience",
+      "cluster_size": 8,
+      "funnel_stage": "Pre-Purchase Decision",
+      "impact_description": "Users cannot confidently choose a size or trust fabric quality, causing them to abandon at checkout.",
+      "matched_categories": [
+        "Ethnic Wear (Sarees, Kurtas, Lehengas)",
+        "Accessories (Bags, Jewelry, Watches)",
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Ethnic Wear (Sarees, Kurtas, Lehengas)",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 32812,
+          "estimated_revenue_loss_monthly": 78750000.0
+        },
+        {
+          "category": "Accessories (Bags, Jewelry, Watches)",
+          "dropoff_rate": 0.6,
+          "monthly_abandoned_due_to_this": 9450,
+          "estimated_revenue_loss_monthly": 11340000.0
+        },
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 24010,
+          "estimated_revenue_loss_monthly": 43218000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 133308000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 4,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "Fit/Fabric Uncertainty",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Pre-Purchase Decision",
+      "impact_description": "Users cannot confidently choose a size or trust fabric quality, causing them to abandon at checkout.",
+      "matched_categories": [
+        "Ethnic Wear (Sarees, Kurtas, Lehengas)",
+        "Western Wear (Dresses, Tops, Jeans)",
+        "Lingerie & Innerwear"
+      ],
+      "category_details": [
+        {
+          "category": "Ethnic Wear (Sarees, Kurtas, Lehengas)",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 32812,
+          "estimated_revenue_loss_monthly": 78750000.0
+        },
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 24010,
+          "estimated_revenue_loss_monthly": 43218000.0
+        },
+        {
+          "category": "Lingerie & Innerwear",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 9975,
+          "estimated_revenue_loss_monthly": 8977500.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 130945500.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 18,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "Fit/Fabric Uncertainty",
+      "dominant_feature": "general experience",
+      "cluster_size": 4,
+      "funnel_stage": "Pre-Purchase Decision",
+      "impact_description": "Users cannot confidently choose a size or trust fabric quality, causing them to abandon at checkout.",
+      "matched_categories": [
+        "Ethnic Wear (Sarees, Kurtas, Lehengas)",
+        "Western Wear (Dresses, Tops, Jeans)",
+        "Lingerie & Innerwear"
+      ],
+      "category_details": [
+        {
+          "category": "Ethnic Wear (Sarees, Kurtas, Lehengas)",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 32812,
+          "estimated_revenue_loss_monthly": 78750000.0
+        },
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 24010,
+          "estimated_revenue_loss_monthly": 43218000.0
+        },
+        {
+          "category": "Lingerie & Innerwear",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 9975,
+          "estimated_revenue_loss_monthly": 8977500.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 130945500.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 23,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "Fit/Fabric Uncertainty",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Pre-Purchase Decision",
+      "impact_description": "Users cannot confidently choose a size or trust fabric quality, causing them to abandon at checkout.",
+      "matched_categories": [
+        "Ethnic Wear (Sarees, Kurtas, Lehengas)"
+      ],
+      "category_details": [
+        {
+          "category": "Ethnic Wear (Sarees, Kurtas, Lehengas)",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 32812,
+          "estimated_revenue_loss_monthly": 78750000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 78750000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 45,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "Fit/Fabric Uncertainty",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Pre-Purchase Decision",
+      "impact_description": "Users cannot confidently choose a size or trust fabric quality, causing them to abandon at checkout.",
+      "matched_categories": [
+        "Footwear (Heels, Flats, Sneakers)",
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Footwear (Heels, Flats, Sneakers)",
+          "dropoff_rate": 0.65,
+          "monthly_abandoned_due_to_this": 15242,
+          "estimated_revenue_loss_monthly": 22863750.0
+        },
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 24010,
+          "estimated_revenue_loss_monthly": 43218000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 66081750.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 41,
+      "cluster_label": "sizing (positive)",
+      "barrier_type": "Fit/Fabric Uncertainty",
+      "dominant_feature": "sizing",
+      "cluster_size": 3,
+      "funnel_stage": "Pre-Purchase Decision",
+      "impact_description": "Users cannot confidently choose a size or trust fabric quality, causing them to abandon at checkout.",
+      "matched_categories": [
+        "Accessories (Bags, Jewelry, Watches)",
+        "Western Wear (Dresses, Tops, Jeans)",
+        "Lingerie & Innerwear"
+      ],
+      "category_details": [
+        {
+          "category": "Accessories (Bags, Jewelry, Watches)",
+          "dropoff_rate": 0.6,
+          "monthly_abandoned_due_to_this": 9450,
+          "estimated_revenue_loss_monthly": 11340000.0
+        },
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 24010,
+          "estimated_revenue_loss_monthly": 43218000.0
+        },
+        {
+          "category": "Lingerie & Innerwear",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 9975,
+          "estimated_revenue_loss_monthly": 8977500.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 63535500.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 21,
+      "cluster_label": "styling (positive)",
+      "barrier_type": "Fit/Fabric Uncertainty",
+      "dominant_feature": "styling",
+      "cluster_size": 3,
+      "funnel_stage": "Pre-Purchase Decision",
+      "impact_description": "Users cannot confidently choose a size or trust fabric quality, causing them to abandon at checkout.",
+      "matched_categories": [
+        "Accessories (Bags, Jewelry, Watches)",
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Accessories (Bags, Jewelry, Watches)",
+          "dropoff_rate": 0.6,
+          "monthly_abandoned_due_to_this": 9450,
+          "estimated_revenue_loss_monthly": 11340000.0
+        },
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 24010,
+          "estimated_revenue_loss_monthly": 43218000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 54558000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 39,
+      "cluster_label": "sizing (positive)",
+      "barrier_type": "Fit/Fabric Uncertainty",
+      "dominant_feature": "sizing",
+      "cluster_size": 2,
+      "funnel_stage": "Pre-Purchase Decision",
+      "impact_description": "Users cannot confidently choose a size or trust fabric quality, causing them to abandon at checkout.",
+      "matched_categories": [
+        "Accessories (Bags, Jewelry, Watches)",
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Accessories (Bags, Jewelry, Watches)",
+          "dropoff_rate": 0.6,
+          "monthly_abandoned_due_to_this": 9450,
+          "estimated_revenue_loss_monthly": 11340000.0
+        },
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 24010,
+          "estimated_revenue_loss_monthly": 43218000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 54558000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 14,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "Fit/Fabric Uncertainty",
+      "dominant_feature": "general experience",
+      "cluster_size": 5,
+      "funnel_stage": "Pre-Purchase Decision",
+      "impact_description": "Users cannot confidently choose a size or trust fabric quality, causing them to abandon at checkout.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)",
+        "Lingerie & Innerwear"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 24010,
+          "estimated_revenue_loss_monthly": 43218000.0
+        },
+        {
+          "category": "Lingerie & Innerwear",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 9975,
+          "estimated_revenue_loss_monthly": 8977500.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 52195500.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 0,
+      "cluster_label": "sheerness (negative)",
+      "barrier_type": "Fit/Fabric Uncertainty",
+      "dominant_feature": "sheerness",
+      "cluster_size": 2,
+      "funnel_stage": "Pre-Purchase Decision",
+      "impact_description": "Users cannot confidently choose a size or trust fabric quality, causing them to abandon at checkout.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 24010,
+          "estimated_revenue_loss_monthly": 43218000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 43218000.0,
+      "source_platforms": [
+        "internal"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 5,
+      "cluster_label": "length (neutral)",
+      "barrier_type": "Fit/Fabric Uncertainty",
+      "dominant_feature": "length",
+      "cluster_size": 3,
+      "funnel_stage": "Pre-Purchase Decision",
+      "impact_description": "Users cannot confidently choose a size or trust fabric quality, causing them to abandon at checkout.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 24010,
+          "estimated_revenue_loss_monthly": 43218000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 43218000.0,
+      "source_platforms": [
+        "youtube",
+        "internal"
+      ],
+      "cross_platform_validated": true
+    },
+    {
+      "cluster_id": 44,
+      "cluster_label": "sizing (negative)",
+      "barrier_type": "Fit/Fabric Uncertainty",
+      "dominant_feature": "sizing",
+      "cluster_size": 2,
+      "funnel_stage": "Pre-Purchase Decision",
+      "impact_description": "Users cannot confidently choose a size or trust fabric quality, causing them to abandon at checkout.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 24010,
+          "estimated_revenue_loss_monthly": 43218000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 43218000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 132,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "Taxonomy Disconnect",
+      "dominant_feature": "general experience",
+      "cluster_size": 11,
+      "funnel_stage": "Search & Navigation",
+      "impact_description": "Users can't find what they're looking for because platform categories don't match how they think about fashion.",
+      "matched_categories": [
+        "Ethnic Wear (Sarees, Kurtas, Lehengas)",
+        "Accessories (Bags, Jewelry, Watches)"
+      ],
+      "category_details": [
+        {
+          "category": "Ethnic Wear (Sarees, Kurtas, Lehengas)",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 9375,
+          "estimated_revenue_loss_monthly": 22500000.0
+        },
+        {
+          "category": "Accessories (Bags, Jewelry, Watches)",
+          "dropoff_rate": 0.6,
+          "monthly_abandoned_due_to_this": 2700,
+          "estimated_revenue_loss_monthly": 3240000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 25740000.0,
+      "source_platforms": [
+        "app",
+        "play"
+      ],
+      "cross_platform_validated": true
+    },
+    {
+      "cluster_id": 51,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 9,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Ethnic Wear (Sarees, Kurtas, Lehengas)",
+        "Accessories (Bags, Jewelry, Watches)"
+      ],
+      "category_details": [
+        {
+          "category": "Ethnic Wear (Sarees, Kurtas, Lehengas)",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 4687,
+          "estimated_revenue_loss_monthly": 11250000.0
+        },
+        {
+          "category": "Accessories (Bags, Jewelry, Watches)",
+          "dropoff_rate": 0.6,
+          "monthly_abandoned_due_to_this": 1350,
+          "estimated_revenue_loss_monthly": 1620000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 12870000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 50,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Ethnic Wear (Sarees, Kurtas, Lehengas)"
+      ],
+      "category_details": [
+        {
+          "category": "Ethnic Wear (Sarees, Kurtas, Lehengas)",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 4687,
+          "estimated_revenue_loss_monthly": 11250000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 11250000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 48,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Ethnic Wear (Sarees, Kurtas, Lehengas)"
+      ],
+      "category_details": [
+        {
+          "category": "Ethnic Wear (Sarees, Kurtas, Lehengas)",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 4687,
+          "estimated_revenue_loss_monthly": 11250000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 11250000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 43,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Ethnic Wear (Sarees, Kurtas, Lehengas)"
+      ],
+      "category_details": [
+        {
+          "category": "Ethnic Wear (Sarees, Kurtas, Lehengas)",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 4687,
+          "estimated_revenue_loss_monthly": 11250000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 11250000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 47,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Ethnic Wear (Sarees, Kurtas, Lehengas)"
+      ],
+      "category_details": [
+        {
+          "category": "Ethnic Wear (Sarees, Kurtas, Lehengas)",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 4687,
+          "estimated_revenue_loss_monthly": 11250000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 11250000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 128,
+      "cluster_label": "delivery & returns (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "delivery & returns",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)",
+        "Lingerie & Innerwear"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        },
+        {
+          "category": "Lingerie & Innerwear",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 1425,
+          "estimated_revenue_loss_monthly": 1282500.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 7456500.0,
+      "source_platforms": [
+        "app"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 130,
+      "cluster_label": "delivery & returns (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "delivery & returns",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)",
+        "Lingerie & Innerwear"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        },
+        {
+          "category": "Lingerie & Innerwear",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 1425,
+          "estimated_revenue_loss_monthly": 1282500.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 7456500.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 55,
+      "cluster_label": "return pickup process (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "return pickup process",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "app",
+        "play"
+      ],
+      "cross_platform_validated": true
+    },
+    {
+      "cluster_id": 129,
+      "cluster_label": "product accuracy (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "product accuracy",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "app",
+        "play"
+      ],
+      "cross_platform_validated": true
+    },
+    {
+      "cluster_id": 106,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "app",
+        "play"
+      ],
+      "cross_platform_validated": true
+    },
+    {
+      "cluster_id": 15,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "app",
+        "play"
+      ],
+      "cross_platform_validated": true
+    },
+    {
+      "cluster_id": 73,
+      "cluster_label": "product quality (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "product quality",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "app",
+        "play"
+      ],
+      "cross_platform_validated": true
+    },
+    {
+      "cluster_id": 53,
+      "cluster_label": "delivery & returns (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "delivery & returns",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "app",
+        "play"
+      ],
+      "cross_platform_validated": true
+    },
+    {
+      "cluster_id": 35,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 4,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 60,
+      "cluster_label": "product condition (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "product condition",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play",
+        "youtube"
+      ],
+      "cross_platform_validated": true
+    },
+    {
+      "cluster_id": 37,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 17,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 19,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 10,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 6,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 3,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 26,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play",
+        "youtube"
+      ],
+      "cross_platform_validated": true
+    },
+    {
+      "cluster_id": 58,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 8,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 57,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play",
+        "youtube"
+      ],
+      "cross_platform_validated": true
+    },
+    {
+      "cluster_id": 127,
+      "cluster_label": "delivery service (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "delivery service",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 131,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 8,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 133,
+      "cluster_label": "delivery & returns (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "delivery & returns",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 82,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 147,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 103,
+      "cluster_label": "delivery & returns (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "delivery & returns",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 78,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 126,
+      "cluster_label": "delivery & returns (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "delivery & returns",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 80,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 42,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 49,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 8,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 29,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 4,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 67,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 11,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 85,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 6,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 54,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 83,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 4,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 7,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 74,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 4,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 13,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 38,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 10,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 27,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 4,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 99,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 97,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 87,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 117,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 7,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 70,
+      "cluster_label": "delivery & returns (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "delivery & returns",
+      "cluster_size": 8,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 105,
+      "cluster_label": "delivery & returns (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "delivery & returns",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 62,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 92,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 4,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 108,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 11,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 124,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 63,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 119,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 24,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 5,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 71,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 93,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 4,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 72,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 118,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 4,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 64,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 81,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 77,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 4,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 98,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 4,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 121,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 76,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 135,
+      "cluster_label": "delivery & returns (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "delivery & returns",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 96,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 25,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 79,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 120,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 90,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 89,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 6,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 125,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 5,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 114,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 116,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 9,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 33,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 6,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 65,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 20,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 102,
+      "cluster_label": "delivery & returns (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "delivery & returns",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 46,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 112,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 66,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 123,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 122,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 6,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 95,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 88,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 6,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 86,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 12,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 100,
+      "cluster_label": "delivery & returns (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "delivery & returns",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 42,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 68,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 4,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 115,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 1,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 56,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 69,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 52,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 12,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 34,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 101,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 26,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 113,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 59,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 4,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 109,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 75,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 61,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 84,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 94,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 22,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 110,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 36,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 4,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 28,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 16,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 91,
+      "cluster_label": "general experience (positive)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 2,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ],
+      "category_details": [
+        {
+          "category": "Western Wear (Dresses, Tops, Jeans)",
+          "dropoff_rate": 0.7,
+          "monthly_abandoned_due_to_this": 3430,
+          "estimated_revenue_loss_monthly": 6174000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 6174000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 31,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Accessories (Bags, Jewelry, Watches)"
+      ],
+      "category_details": [
+        {
+          "category": "Accessories (Bags, Jewelry, Watches)",
+          "dropoff_rate": 0.6,
+          "monthly_abandoned_due_to_this": 1350,
+          "estimated_revenue_loss_monthly": 1620000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 1620000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 32,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Accessories (Bags, Jewelry, Watches)"
+      ],
+      "category_details": [
+        {
+          "category": "Accessories (Bags, Jewelry, Watches)",
+          "dropoff_rate": 0.6,
+          "monthly_abandoned_due_to_this": 1350,
+          "estimated_revenue_loss_monthly": 1620000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 1620000.0,
+      "source_platforms": [
+        "youtube"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 136,
+      "cluster_label": "delivery & returns (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "delivery & returns",
+      "cluster_size": 7,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Accessories (Bags, Jewelry, Watches)"
+      ],
+      "category_details": [
+        {
+          "category": "Accessories (Bags, Jewelry, Watches)",
+          "dropoff_rate": 0.6,
+          "monthly_abandoned_due_to_this": 1350,
+          "estimated_revenue_loss_monthly": 1620000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 1620000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 134,
+      "cluster_label": "customer service (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "customer service",
+      "cluster_size": 6,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Accessories (Bags, Jewelry, Watches)"
+      ],
+      "category_details": [
+        {
+          "category": "Accessories (Bags, Jewelry, Watches)",
+          "dropoff_rate": 0.6,
+          "monthly_abandoned_due_to_this": 1350,
+          "estimated_revenue_loss_monthly": 1620000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 1620000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 111,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 2,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Accessories (Bags, Jewelry, Watches)"
+      ],
+      "category_details": [
+        {
+          "category": "Accessories (Bags, Jewelry, Watches)",
+          "dropoff_rate": 0.6,
+          "monthly_abandoned_due_to_this": 1350,
+          "estimated_revenue_loss_monthly": 1620000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 1620000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 30,
+      "cluster_label": "delivery & returns (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "delivery & returns",
+      "cluster_size": 3,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Accessories (Bags, Jewelry, Watches)"
+      ],
+      "category_details": [
+        {
+          "category": "Accessories (Bags, Jewelry, Watches)",
+          "dropoff_rate": 0.6,
+          "monthly_abandoned_due_to_this": 1350,
+          "estimated_revenue_loss_monthly": 1620000.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 1620000.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 104,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 8,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Lingerie & Innerwear"
+      ],
+      "category_details": [
+        {
+          "category": "Lingerie & Innerwear",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 1425,
+          "estimated_revenue_loss_monthly": 1282500.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 1282500.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    },
+    {
+      "cluster_id": 107,
+      "cluster_label": "general experience (negative)",
+      "barrier_type": "None",
+      "dominant_feature": "general experience",
+      "cluster_size": 4,
+      "funnel_stage": "Unknown",
+      "impact_description": "Unclassified friction point.",
+      "matched_categories": [
+        "Lingerie & Innerwear"
+      ],
+      "category_details": [
+        {
+          "category": "Lingerie & Innerwear",
+          "dropoff_rate": 0.75,
+          "monthly_abandoned_due_to_this": 1425,
+          "estimated_revenue_loss_monthly": 1282500.0
+        }
+      ],
+      "total_estimated_revenue_at_risk_monthly": 1282500.0,
+      "source_platforms": [
+        "play"
+      ],
+      "cross_platform_validated": false
+    }
+  ],
+  "telemetry_source": "simulated_internal_data"
+}

@@ -1,0 +1,426 @@
+[
+    {
+        "id": "UgzQcvDHhccMlPPqRER4AaABAg",
+        "source": "youtube_Pba9BLMF1cM",
+        "text": "मझ used product दय ह, और return and refund नह करत nykaa वल",
+        "score": 0,
+        "timestamp": "2026-08-10T16:35:48Z",
+        "author": "@yashwantkumarverma1914",
+        "original_text": "मुझे used product दिया है,  और return and refund नहीं करते Nykaa वाले।",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "product condition",
+                    "sentiment": "negative",
+                    "quote": "used product दय ह"
+                },
+                {
+                    "feature": "return and refund",
+                    "sentiment": "negative",
+                    "quote": "return and refund नह करत nykaa वल"
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "UgyyqP5Lo94ItDcMuA94AaABAg",
+        "source": "youtube_Pba9BLMF1cM",
+        "text": "link of 1st skirt plz",
+        "score": 0,
+        "timestamp": "2026-05-21T11:49:25Z",
+        "author": "@nehasharma8461",
+        "original_text": "Link of 1st skirt plz",
+        "groq_analysis": {
+            "aspects": [],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "UgymHK52RtrubWT0XsF4AaABAg",
+        "source": "youtube_Pba9BLMF1cM",
+        "text": "green green from where you did you get?",
+        "score": 0,
+        "timestamp": "2026-02-04T11:43:11Z",
+        "author": "@na-nai-t2y",
+        "original_text": "Green green from where you did you get?",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "color",
+                    "sentiment": "neutral",
+                    "quote": "green green"
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "UgyQskFYuSeacr5j0ap4AaABAg",
+        "source": "youtube_Pba9BLMF1cM",
+        "text": "how much time they took to deliver ?",
+        "score": 0,
+        "timestamp": "2025-11-02T14:18:46Z",
+        "author": "@priyanshisrivastava5595",
+        "original_text": "How much time they took to deliver ?",
+        "groq_analysis": {
+            "aspects": [],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "Ugwrq3umsURKLnyyorV4AaABAg",
+        "source": "youtube_Pba9BLMF1cM",
+        "text": "your skirt link please",
+        "score": 0,
+        "timestamp": "2025-08-19T08:04:48Z",
+        "author": "@MariamKhatun-bt5hw",
+        "original_text": "Your skirt link please 🥹",
+        "groq_analysis": {
+            "aspects": [],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "UgzpJdOo7loNsoFP3bB4AaABAg",
+        "source": "youtube_Pba9BLMF1cM",
+        "text": "can you please tell me the size?",
+        "score": 0,
+        "timestamp": "2025-05-27T18:30:27Z",
+        "author": "@anujavaidya4982",
+        "original_text": "Can you please tell me the size?",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "size",
+                    "sentiment": "neutral",
+                    "quote": "can you please tell me the size?"
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [
+                    "size"
+                ],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "Fit/Fabric Uncertainty"
+        }
+    },
+    {
+        "id": "Ugx7ipb40IvGhuqebqZ4AaABAg",
+        "source": "youtube_Pba9BLMF1cM",
+        "text": "your skirt caught my attention, it's so pretty! where did you buy it from?",
+        "score": 1,
+        "timestamp": "2025-05-23T21:06:40Z",
+        "author": "@sarasharma4274",
+        "original_text": "Your skirt caught my attention, it's so pretty! Where did you buy it from?",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "appearance",
+                    "sentiment": "positive",
+                    "quote": "it's so pretty!"
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "UgyoXJox3o6kFCFPoE54AaABAg",
+        "source": "youtube_Pba9BLMF1cM",
+        "text": "ciders quality is top notch",
+        "score": 13,
+        "timestamp": "2025-03-27T20:53:37Z",
+        "author": "@Whos.anubhaa",
+        "original_text": "Cider’s quality is top notch ❤",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "quality",
+                    "sentiment": "positive",
+                    "quote": "quality is top notch"
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "UgyrcEh7wTH7DkNUc5h4AaABAg",
+        "source": "youtube_Pba9BLMF1cM",
+        "text": "who are enjoying song rose besttt",
+        "score": 0,
+        "timestamp": "2025-03-13T12:53:14Z",
+        "author": "@cutie_sonupro",
+        "original_text": "Who are enjoying song 😂😂🫰🫰🫰💜💜💜 rose besttt",
+        "groq_analysis": {
+            "aspects": [],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "Ugx4zzbDjRf9z231seF4AaABAg",
+        "source": "youtube_Pba9BLMF1cM",
+        "text": "that second corset top and the green skirt gonna look fabulous",
+        "score": 11,
+        "timestamp": "2025-02-19T02:03:45Z",
+        "author": "@Edit_shyt",
+        "original_text": "That second corset top and the green skirt gonna look fabulous ❤",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "corset top",
+                    "sentiment": "positive",
+                    "quote": "corset top"
+                },
+                {
+                    "feature": "green skirt",
+                    "sentiment": "positive",
+                    "quote": "green skirt"
+                }
+            ]
+        }
+    },
+    {
+        "id": "UgzQktyNk7ukhSixV5B4AaABAg",
+        "source": "youtube_Vq4g8L2mVM4",
+        "text": "links chaiye toh dress ka color comment kardena",
+        "score": 17,
+        "timestamp": "2026-05-01T19:46:09Z",
+        "author": "@ishitanand",
+        "original_text": "Links chaiye toh dress ka color comment kardena ⬇️🥰",
+        "groq_analysis": {
+            "aspects": [],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "UgzgtBCZvwqwfi8K4RF4AaABAg",
+        "source": "youtube_Vq4g8L2mVM4",
+        "text": "sorry to say but jo aap return kar rhi ho na vo achii hai or jo aap keep kar rhe ho vo achaa nhi h",
+        "score": 0,
+        "timestamp": "2026-08-19T13:12:19Z",
+        "author": "@nirmilakushwaha4705",
+        "original_text": "Sorry to say but jo aap return kar rhi ho na vo achii hai or jo aap keep kar rhe ho vo achaa nhi h",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "overall quality",
+                    "sentiment": "negative",
+                    "quote": "jo aap keep kar rhe ho vo achaa nhi h"
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "UgxqQ9cTOHyH4GzruJN4AaABAg",
+        "source": "youtube_Vq4g8L2mVM4",
+        "text": "red one link pls",
+        "score": 0,
+        "timestamp": "2026-08-17T13:35:46Z",
+        "author": "@eshitabiswas3772",
+        "original_text": "Red one link pls❤",
+        "groq_analysis": {
+            "aspects": [],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "UgzR-5jL2jMxC-lEM3x4AaABAg",
+        "source": "youtube_Vq4g8L2mVM4",
+        "text": "fraud company nykaa fashion",
+        "score": 0,
+        "timestamp": "2026-08-14T17:04:27Z",
+        "author": "@akshatajadhav4542",
+        "original_text": "Fraud Company Nykaa Fashion",
+        "groq_analysis": {
+            "aspects": [],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "UgwBHj9Jtmsg6Q27cEt4AaABAg",
+        "source": "youtube_Vq4g8L2mVM4",
+        "text": "you are a very cute",
+        "score": 0,
+        "timestamp": "2026-08-14T15:56:32Z",
+        "author": "@DilipRoy-i1j",
+        "original_text": "You are a very cute ❤🫶🏻",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "overall",
+                    "sentiment": "positive",
+                    "quote": "you are a very cute"
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "Ugx16b9Z7MvVIslwuvB4AaABAg",
+        "source": "youtube_Vq4g8L2mVM4",
+        "text": "ek bi accha nhi hai",
+        "score": 0,
+        "timestamp": "2026-08-11T18:21:38Z",
+        "author": "@kanchidhami9236",
+        "original_text": "Ek bi accha nhi hai",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "overall",
+                    "sentiment": "negative",
+                    "quote": "ek bi accha nhi hai"
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "UgwrkXhbeAaarDTJvqh4AaABAg",
+        "source": "youtube_Vq4g8L2mVM4",
+        "text": "मझ used product दय ह, और return and refund नह करत nykaa वल",
+        "score": 0,
+        "timestamp": "2026-08-10T16:35:04Z",
+        "author": "@yashwantkumarverma1914",
+        "original_text": "मुझे used product दिया है,  और return and refund नहीं करते Nykaa वाले।",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "product condition",
+                    "sentiment": "negative",
+                    "quote": "used product दय ह"
+                },
+                {
+                    "feature": "return and refund",
+                    "sentiment": "negative",
+                    "quote": "return and refund नह करत nykaa वल"
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "Ugyk_JxjkzaqDDJydGB4AaABAg",
+        "source": "youtube_Vq4g8L2mVM4",
+        "text": "baby pink",
+        "score": 0,
+        "timestamp": "2026-08-10T07:48:34Z",
+        "author": "@ChestaAttriph",
+        "original_text": "Baby pink",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "color",
+                    "sentiment": "neutral",
+                    "quote": "baby pink"
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "Ugy4J04IQJOAoeQ6UDZ4AaABAg",
+        "source": "youtube_Vq4g8L2mVM4",
+        "text": "chi",
+        "score": 0,
+        "timestamp": "2026-08-10T03:55:44Z",
+        "author": "@ajaychohan3925",
+        "original_text": "Chi",
+        "groq_analysis": {
+            "aspects": [],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "Ugz2B9A9VhJ19j-FCG94AaABAg",
+        "source": "youtube_Vq4g8L2mVM4",
+        "text": "2nd is so beautiful",
+        "score": 0,
+        "timestamp": "2026-08-09T19:00:25Z",
+        "author": "@MahamAhmed-u9o3w",
+        "original_text": "2nd is so beautiful",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "design",
+                    "sentiment": "positive",
+                    "quote": "so beautiful"
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    }
+]

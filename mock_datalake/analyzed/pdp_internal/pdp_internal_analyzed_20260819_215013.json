@@ -1,0 +1,50 @@
+[
+    {
+        "id": "qa_PID_89324_1",
+        "source": "internal_pdp_qa",
+        "text": "q is this top see-through? a yes, it requires a camisole underneath as the fabric is quite sheer in the light.",
+        "score": 0,
+        "timestamp": "1787156413.342479",
+        "author": "verified_buyer_1",
+        "original_text": "Q: Is this top see-through? A: Yes, it requires a camisole underneath as the fabric is quite sheer in the light.",
+        "groq_analysis": {
+            "error": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}"
+        }
+    },
+    {
+        "id": "qa_PID_89324_2",
+        "source": "internal_pdp_qa",
+        "text": "q i am 5'4, will this dress touch the floor? a no, it hits just above the ankle for someone 5'4.",
+        "score": 0,
+        "timestamp": "1787156413.342485",
+        "author": "verified_buyer_2",
+        "original_text": "Q: I am 5'4, will this dress touch the floor? A: No, it hits just above the ankle for someone 5'4.",
+        "groq_analysis": {
+            "error": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}"
+        }
+    },
+    {
+        "id": "qa_PID_10923_1",
+        "source": "internal_pdp_qa",
+        "text": "q is this top see-through? a yes, it requires a camisole underneath as the fabric is quite sheer in the light.",
+        "score": 0,
+        "timestamp": "1787156413.342489",
+        "author": "verified_buyer_1",
+        "original_text": "Q: Is this top see-through? A: Yes, it requires a camisole underneath as the fabric is quite sheer in the light.",
+        "groq_analysis": {
+            "error": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}"
+        }
+    },
+    {
+        "id": "qa_PID_10923_2",
+        "source": "internal_pdp_qa",
+        "text": "q i am 5'4, will this dress touch the floor? a no, it hits just above the ankle for someone 5'4.",
+        "score": 0,
+        "timestamp": "1787156413.3424902",
+        "author": "verified_buyer_2",
+        "original_text": "Q: I am 5'4, will this dress touch the floor? A: No, it hits just above the ankle for someone 5'4.",
+        "groq_analysis": {
+            "error": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}"
+        }
+    }
+]

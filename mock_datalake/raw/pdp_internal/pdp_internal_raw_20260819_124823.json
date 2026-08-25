@@ -1,0 +1,34 @@
+[
+    {
+        "id": "qa_PID_89324_1",
+        "source": "internal_pdp_qa",
+        "text": "Q: Is this top see-through? A: Yes, it requires a camisole underneath as the fabric is quite sheer in the light.",
+        "score": 0,
+        "timestamp": "1787123903.412878",
+        "author": "verified_buyer_1"
+    },
+    {
+        "id": "qa_PID_89324_2",
+        "source": "internal_pdp_qa",
+        "text": "Q: I am 5'4, will this dress touch the floor? A: No, it hits just above the ankle for someone 5'4.",
+        "score": 0,
+        "timestamp": "1787123903.4128928",
+        "author": "verified_buyer_2"
+    },
+    {
+        "id": "qa_PID_10923_1",
+        "source": "internal_pdp_qa",
+        "text": "Q: Is this top see-through? A: Yes, it requires a camisole underneath as the fabric is quite sheer in the light.",
+        "score": 0,
+        "timestamp": "1787123903.4129012",
+        "author": "verified_buyer_1"
+    },
+    {
+        "id": "qa_PID_10923_2",
+        "source": "internal_pdp_qa",
+        "text": "Q: I am 5'4, will this dress touch the floor? A: No, it hits just above the ankle for someone 5'4.",
+        "score": 0,
+        "timestamp": "1787123903.4129028",
+        "author": "verified_buyer_2"
+    }
+]

@@ -1,0 +1,327 @@
+[
+    {
+        "id": "14441575304",
+        "source": "app_store",
+        "text": "i tried to return my order as the size was bigger , i chased them for whole 1520 days to return one item , and they are still saying weve raised your queries will return within 35 days , their 3-5 days take 15 days and still no solutions",
+        "score": 1,
+        "timestamp": "18 August 2026",
+        "author": "Lucifer Morningstar1611",
+        "title": "Worst worst worst shopping experience",
+        "original_text": "I tried to return my order as the size was bigger , I chased them for whole 15/20 days to return one item , and they are still saying we’ve raised your queries will return within 3/5 days , their 3-5 days take 15 days and still no solutions",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199208, Requested 2318. Please try again in 10m59.232s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14439384018",
+        "source": "app_store",
+        "text": "the delivery agent assigned for the return pickup visited my address. he claimed he had forgotten his mobile phone and requested that i hand over the return items, promising to scan them later from his home to determine refund eligibility. trusting the process, i handed over the package. shortly afterward, i was shocked to find that my refund had been marked as cancelled. your customer care helpline has been completely unhelpful, keeping me on hold for over 10 minutes multiple times, wasting more than half an hour of my time with no resolution. this is a direct case of delivery agent misconduct and courier fraud. i expect the platform to take responsibility for its representatives.",
+        "score": 1,
+        "timestamp": "17 August 2026",
+        "author": "Anju0402",
+        "title": "Very poor customer service",
+        "original_text": "The delivery agent assigned for the return pickup visited my address. He claimed he had forgotten his mobile phone and requested that I hand over the return items, promising to scan them later from his home to determine refund eligibility. Trusting the process, I handed over the package. Shortly afterward, I was shocked to find that my refund had been marked as cancelled. ​Your customer care helpline has been completely unhelpful, keeping me on hold for over 10 minutes multiple times, wasting more than half an hour of my time with no resolution. ​This is a direct case of delivery agent misconduct and courier fraud. I expect the platform to take responsibility for its representatives.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199208, Requested 2388. Please try again in 11m29.472s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14438147530",
+        "source": "app_store",
+        "text": "ordered first time nike running shoes from this app. it supposed to reach me on 13 aug 26. but my package not delivered . there is no option for cancellation of order while in transit. nykka customer care is the worst of all . they dont respond at all. only bot send messages like incovenience caused is deeply regreted. no body telling me reason of delay. i am stuck on this app . its almost impossible to reach customer care on this app. zero rating for this app never buy from it.",
+        "score": 1,
+        "timestamp": "17 August 2026",
+        "author": "Pathetic Nykaa Fashion",
+        "title": "Very poor customer support.",
+        "original_text": "Ordered first time nike running shoes from this app. It supposed to reach me on 13 Aug 26. But my package not delivered . there is no option for cancellation of order while in transit. Nykka customer care is the worst of all . they dont respond at all. Only bot send messages like incovenience caused is deeply regreted. No body telling me reason of delay. I am stuck on this app . Its almost impossible to reach customer care on this app. Zero rating for this app never buy from it.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199208, Requested 2365. Please try again in 11m19.536s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14438084274",
+        "source": "app_store",
+        "text": "in my past order i received different product instead of ordered one. but after calling so many times my issue was not resolved and after receiving few times messages of pickup no one came and suddenly one day nykaa cancelled my return request without my consent.",
+        "score": 3,
+        "timestamp": "17 August 2026",
+        "author": "Aayushi67",
+        "title": "Needs to improve Customer service",
+        "original_text": "In my past order i received different product instead of ordered one. But after calling so many times my issue was not resolved and after receiving few times messages of pickup no one came and suddenly one day nykaa cancelled my return request without my consent.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199208, Requested 2305. Please try again in 10m53.616s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14437314728",
+        "source": "app_store",
+        "text": "very rude and unhelpful customer care representatives, the order was picked up but marked as pick up failed - the logistics partners can steal the products and get away with it and nykaa will not take any accountability",
+        "score": 1,
+        "timestamp": "17 August 2026",
+        "author": "prbag",
+        "title": "No accountability of logistics partners",
+        "original_text": "Very rude and unhelpful customer care representatives, the order was picked up but marked as pick up failed - the logistics partners can steal the products and get away with it and Nykaa will not take any accountability",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199208, Requested 2299. Please try again in 10m51.024s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14435998870",
+        "source": "app_store",
+        "text": "very bad services worst app ever",
+        "score": 1,
+        "timestamp": "16 August 2026",
+        "author": "Bekar service of ola",
+        "title": "Worst service",
+        "original_text": "Very bad services worst app ever",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199208, Requested 2263. Please try again in 10m35.472s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14434644350",
+        "source": "app_store",
+        "text": "3rd party delivery partner",
+        "score": 1,
+        "timestamp": "16 August 2026",
+        "author": "Llljsdub",
+        "title": "Vary bad service",
+        "original_text": "3rd party delivery partner",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199207, Requested 2262. Please try again in 10m34.608s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14430095560",
+        "source": "app_store",
+        "text": "i ordered skybags 22l it takes 2 weeks",
+        "score": 1,
+        "timestamp": "15 August 2026",
+        "author": "Sunil Gauta",
+        "title": "order delayed",
+        "original_text": "I ordered Skybags 22l It takes 2 weeks",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199207, Requested 2270. Please try again in 10m38.064s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14429554228",
+        "source": "app_store",
+        "text": "i had placed a return request for 3 products, there was a serial number mismatch with what ive received and it was different number for delivery person, because of this the order was not picked up. i sent mail with images and everything, but yet my issue didnt get resolved, apart from this the worst part is the customer care contact you gotta wait minimum 10 mins to connect with them and some non sense people make u wait for 20 minutes and then immediately cut the call, then agaon to connect with another customer care executive wait for 10 mins, absolute non sense. ill never ever purchase anything from here ever again",
+        "score": 1,
+        "timestamp": "15 August 2026",
+        "author": "Amrutha-07",
+        "title": "Worst e com app , queries are but resolved and huge loss of money",
+        "original_text": "I had placed a return request for 3 products, there was a serial number mismatch with what I’ve received and it was different number for delivery person, because of this the order was not picked up. I sent mail with images and everything, but yet my issue didn’t get resolved, apart from this the worst part is the customer care contact you gotta wait minimum 10 mins to connect with them and some non sense people make u wait for 20 minutes and then immediately cut the call, then agaon to connect with another customer care executive wait for 10 mins, absolute non sense. I’ll never ever purchase anything from here ever again",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199207, Requested 2386. Please try again in 11m28.175999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14427290738",
+        "source": "app_store",
+        "text": "pathetic service , way too with its service and no response on customer care calls , or messages or mails . no point of contact and all , orders takes decades to reach you on cancelling refund takes another decade to get initiated. trust me choose other apps over this app",
+        "score": 1,
+        "timestamp": "14 August 2026",
+        "author": "RinS19",
+        "title": "Pathetic brand",
+        "original_text": "Pathetic service , way too with its service and no response on customer care calls , or messages or mails . No point of contact and all , orders takes decades to reach you on cancelling refund takes another decade to get initiated. Trust me choose other apps over this app",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199207, Requested 2310. Please try again in 10m55.343999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14425988670",
+        "source": "app_store",
+        "text": "i ordered the clothing and i recieved it without tags and beey cheap copy of what was shown in the website and somehow they do not allow return of this product and customer support is not at helpful",
+        "score": 1,
+        "timestamp": "14 August 2026",
+        "author": "Varsha222111",
+        "title": "Very bad customer support",
+        "original_text": "I ordered the clothing and I recieved it without tags and beey cheap copy of what was shown in the website and somehow they do not allow return of this product and customer support is not at helpful",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199207, Requested 2296. Please try again in 10m49.296s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14425734631",
+        "source": "app_store",
+        "text": "thorough professional,really patient,great communication skills",
+        "score": 5,
+        "timestamp": "14 August 2026",
+        "author": "dr anupama",
+        "title": "Akbar Shaikh",
+        "original_text": "Thorough professional,really patient,great communication skills",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199207, Requested 2267. Please try again in 10m36.768s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14425614991",
+        "source": "app_store",
+        "text": "vgood",
+        "score": 5,
+        "timestamp": "14 August 2026",
+        "author": "erfath",
+        "title": "good",
+        "original_text": "vgood",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199207, Requested 2259. Please try again in 10m33.312s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14425562874",
+        "source": "app_store",
+        "text": "i have call multiple times but not received any response",
+        "score": 1,
+        "timestamp": "14 August 2026",
+        "author": "Hặc đóng a",
+        "title": "Bad customer care",
+        "original_text": "I have call multiple times but not received any response",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199207, Requested 2267. Please try again in 10m36.768s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14425332044",
+        "source": "app_store",
+        "text": "worst place to order anything. no guarantee in case if you receive a damaged product. just keep delaying everything and in the end there is no result.",
+        "score": 1,
+        "timestamp": "14 August 2026",
+        "author": "Abhishek24466",
+        "title": "Worst app",
+        "original_text": "Worst place to order anything. No guarantee in case if you receive a damaged product. Just keep delaying everything and in the end there is no result.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199207, Requested 2287. Please try again in 10m45.408s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14425289512",
+        "source": "app_store",
+        "text": "i have to put one star because i have to write review otherwise one star is too much for this app . product quality worst than any other online fashion app. and customer service is poor than this app. they dont know how to track complain and also dont care about customer. better to go road side shopping than this app if they not improve product quality as per price and customer care .",
+        "score": 1,
+        "timestamp": "14 August 2026",
+        "author": "RajeshR.",
+        "title": "Customer support",
+        "original_text": "I have to put one star because I have to write review otherwise one star is too much for this app . Product quality worst than any other online fashion app. And customer service is poor than this app. They don’t know how to track complain and also don’t care about customer. Better to go road side shopping than this app if they not improve product quality as per price and “CUSTOMER CARE “.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199207, Requested 2333. Please try again in 11m5.28s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14423410798",
+        "source": "app_store",
+        "text": "worst experience im u nykaa fashion people please dont order any product from this app they are fraud",
+        "score": 1,
+        "timestamp": "13 August 2026",
+        "author": "Ayshaaaaa@;&:&:&2",
+        "title": "They are not responding properly",
+        "original_text": "Worst experience I’m u Nykaa fashion people please don’t order any product from this app they are fraud",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199207, Requested 2277. Please try again in 10m41.088s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14423333047",
+        "source": "app_store",
+        "text": "worst app, have been trying to return one product from last 2 months, despite being in proper condition the delivery agent marked it quality failed and not coming to pick up. even the customer care is unresponsive to this whole thing.",
+        "score": 1,
+        "timestamp": "13 August 2026",
+        "author": "SmrutiRanjan98",
+        "title": "Worst Return Experience",
+        "original_text": "Worst App, have been trying to return one product from last 2 months, despite being in proper condition the delivery agent marked it quality failed and not coming to pick up. Even the customer care is unresponsive to this whole thing.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199206, Requested 2304. Please try again in 10m52.32s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14422839835",
+        "source": "app_store",
+        "text": "nykaa fashion very poor unreliable service my experience with the nykaa fashion app has been extremely disappointing. i received wrong products and missing items compared to what was shown and ordered through the application. the worst part is the customer support. i tried contacting them through chat, calls, and email, but i am not getting proper responses or a satisfactory resolution. this makes the entire shopping experience feel untrustworthy and fraudulent. customers pay for the products they order and should receive exactly what was promised. nykaa fashion needs to take responsibility, improve customer support, and resolve such issues quickly instead of ignoring customers. i would strongly advise others to be careful while ordering until these issues are addressed.",
+        "score": 1,
+        "timestamp": "13 August 2026",
+        "author": "Flairly",
+        "title": "Nykaa Fashion Is Unreliable – Wrong & Missing Products, No Customer Support",
+        "original_text": "Nykaa Fashion – Very Poor & Unreliable Service My experience with the Nykaa Fashion app has been extremely disappointing. I received wrong products and missing items compared to what was shown and ordered through the application. The worst part is the customer support. I tried contacting them through chat, calls, and email, but I am not getting proper responses or a satisfactory resolution. This makes the entire shopping experience feel untrustworthy and fraudulent. Customers pay for the products they order and should receive exactly what was promised. Nykaa Fashion needs to take responsibility, improve customer support, and resolve such issues quickly instead of ignoring customers. I would strongly advise others to be careful while ordering until these issues are addressed.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199206, Requested 2392. Please try again in 11m30.336s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14421878859",
+        "source": "app_store",
+        "text": "i wish there was an option for a zero star. had very experience",
+        "score": 1,
+        "timestamp": "13 August 2026",
+        "author": ":;@“432",
+        "title": "DELAYED DELIVERY!",
+        "original_text": "I wish there was an option for a zero star. Had very experience 👎🏻👎🏻",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199206, Requested 2271. Please try again in 10m38.064s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14421290621",
+        "source": "app_store",
+        "text": "best app",
+        "score": 5,
+        "timestamp": "13 August 2026",
+        "author": "Neenukurian",
+        "title": "Superb",
+        "original_text": "Best app",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199206, Requested 2259. Please try again in 10m32.88s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14419317794",
+        "source": "app_store",
+        "text": "nykaa fashion is extremely disappointing. 1,717 was my actual payment, but after nykaa cancelled my order from their own side, they initiated a refund of only 1,688. why should i lose 29 when the cancellation was not made by me? the delivery person didnt even call me to deliver the parcel, and instead of taking responsibility, nykaa cancelled the order and then deducted money from my refund. this is completely unfair and unacceptable. a company of this size should have basic accountability and transparency. if you cancel a customers order, refund the customers full amountdont make the customer pay for your failure. very poor customer service. very disappointing experience. nykaa fashion needs to seriously improve its handling of cancellations and refunds. i expect my full 1,717 to be refunded.",
+        "score": 1,
+        "timestamp": "12 August 2026",
+        "author": "Akshay_Bhargav",
+        "title": "Very Disappointing Experience.",
+        "original_text": "Nykaa Fashion is extremely disappointing. ₹1,717 was my actual payment, but after Nykaa cancelled my order from their own side, they initiated a refund of only ₹1,688. Why should I lose ₹29 when the cancellation was NOT made by me? The delivery person didn’t even call me to deliver the parcel, and instead of taking responsibility, Nykaa cancelled the order and then deducted money from my refund. This is completely unfair and unacceptable. A company of this size should have basic accountability and transparency. If you cancel a customer’s order, refund the customer’s FULL amount—don’t make the customer pay for your failure. Very poor customer service. Very disappointing experience. Nykaa Fashion needs to seriously improve its handling of cancellations and refunds. I expect my full ₹1,717 to be refunded.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199206, Requested 2424. Please try again in 11m44.16s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14419189082",
+        "source": "app_store",
+        "text": "be available all size of clothes",
+        "score": 1,
+        "timestamp": "12 August 2026",
+        "author": "Sridhar Yadav",
+        "title": "Not available size selected colours",
+        "original_text": "Be available all size of clothes",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199206, Requested 2263. Please try again in 10m34.608s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14419135525",
+        "source": "app_store",
+        "text": "i order many times order are always late and if we want details no response by team worst shopping app i ever use",
+        "score": 1,
+        "timestamp": "12 August 2026",
+        "author": "jeet1314",
+        "title": "Orders are always late",
+        "original_text": "I order many times order are always late and if we want details no response by team worst shopping app i ever use",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199206, Requested 2280. Please try again in 10m41.952s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "14417778100",
+        "source": "app_store",
+        "text": "useless app and very bad customer support not able to connect with them delayed by delivery and get no information and customer support regarding this my order was prepaid. it was gift for my mothers birthday but due to their bad services nyka spoiled my surprise.",
+        "score": 1,
+        "timestamp": "12 August 2026",
+        "author": "Kaim😁",
+        "title": "Bad customer care",
+        "original_text": "Useless app and very bad customer support not able to connect with them delayed by delivery and get no information and customer support regarding this my order was prepaid. It was gift for my mother’s birthday but due to their bad services nyka spoiled my surprise.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199205, Requested 2306. Please try again in 10m52.752s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    }
+]

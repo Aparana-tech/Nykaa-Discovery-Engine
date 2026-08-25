@@ -1,0 +1,278 @@
+[
+    {
+        "id": "ed860d2d-efb0-40b7-95ec-4041f9e2e9e9",
+        "source": "play_store",
+        "text": "nykaa offers fast deliveryusually within just 3 dayswhich is impressive. the products are genuine and of good quality, and there are often great discounts available. however, the only drawback is their return and exchange policy. there's no proper return option, and exchanges can be difficult, which makes it a bit inconvenient if something doesnt work out. otherwise, a reliable platform for beauty and skincare shopping.",
+        "score": 4,
+        "timestamp": "2025-06-22 14:19:56",
+        "author": "Gopika Unnikrishnan",
+        "original_text": "Nykaa offers fast delivery—usually within just 3 days—which is impressive. The products are genuine and of good quality, and there are often great discounts available. However, the only drawback is their return and exchange policy. There's no proper return option, and exchanges can be difficult, which makes it a bit inconvenient if something doesn’t work out. Otherwise, a reliable platform for beauty and skincare shopping.",
+        "groq_analysis": {
+            "aspects": [
+                {
+                    "feature": "delivery",
+                    "sentiment": "positive",
+                    "quote": "fast deliveryusually within just 3 dayswhich is impressive"
+                },
+                {
+                    "feature": "quality",
+                    "sentiment": "positive",
+                    "quote": "products are genuine and of good quality"
+                },
+                {
+                    "feature": "discounts",
+                    "sentiment": "positive",
+                    "quote": "great discounts available"
+                },
+                {
+                    "feature": "return and exchange policy",
+                    "sentiment": "negative",
+                    "quote": "no proper return option, and exchanges can be difficult"
+                },
+                {
+                    "feature": "platform reliability",
+                    "sentiment": "positive",
+                    "quote": "reliable platform for beauty and skincare shopping"
+                }
+            ],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "9dc6dcd2-20d8-4ed4-a2de-f8bc7d3f1358",
+        "source": "play_store",
+        "text": "my experience with my last few orders has been extremely disappointing. almost every order i placed was eventually cancelled. some products were initially supposed to be delivered the next day, but they were delayed for 89 days and then cancelled altogether. after making me wait for so long, the products were still not delivered. this has been happening quite frequently recently, and it is extremely frustrating and disappointing.",
+        "score": 1,
+        "timestamp": "2026-08-12 00:41:24",
+        "author": "Megha Sardar",
+        "original_text": "My experience with my last few orders has been extremely disappointing. Almost every order I placed was eventually cancelled. Some products were initially supposed to be delivered the next day, but they were delayed for 8–9 days and then cancelled altogether. After making me wait for so long, the products were still not delivered. This has been happening quite frequently recently, and it is extremely frustrating and disappointing.",
+        "groq_analysis": {
+            "aspects": [],
+            "named_entities": {
+                "sizing_mentioned": [],
+                "fabric_mentioned": []
+            },
+            "barrier_classification": "None"
+        }
+    },
+    {
+        "id": "3415230b-0980-48f1-bafc-f16ea0c8c7fa",
+        "source": "play_store",
+        "text": "worst e-commerce platform ever, i've requested return for a product, which was labeled easy return, but whenever i request for return, it cancels. i tried to reach out customer care too, but couldn't connect to anybody. a huge gap in communication with customers. i and my friends are definitely not gonna use it further. i'll suggest everybody reading this, not to use this application at all, instead you can use other platforms which have better communication with their customers.",
+        "score": 1,
+        "timestamp": "2026-08-12 15:00:06",
+        "author": "Shaqlain Farooqui",
+        "original_text": "Worst e-commerce platform ever, I've requested return for a product, which was labeled easy return, but whenever I request for return, it cancels. I tried to reach out customer care too, but couldn't connect to anybody. A huge gap in Communication with customers. I and my friends are definitely not gonna use it further. I'll suggest everybody reading this, not to use this application at all, instead you can use other platforms which have better communication with their customers.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 200000, Requested 306. Please try again in 2m12.191999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "1020460f-aa66-4b79-99e9-caf89a5731c0",
+        "source": "play_store",
+        "text": "the worst experience with this app. when i placed my order, it showed 90-minute delivery, but the order kept getting delayed repeatedly for an entire week. finally, they cancelled the order themselves. it has now been a week, and my money is still stuck with themno products and no refund. this is extremely disappointing and frustrating. the least they can do is process the refund promptly instead of holding customers money for days.",
+        "score": 1,
+        "timestamp": "2026-08-13 14:35:13",
+        "author": "Rajani B",
+        "original_text": "The worst experience with this app. When I placed my order, it showed 90-minute delivery, but the order kept getting delayed repeatedly for an entire week. Finally, they cancelled the order themselves. It has now been a week, and my money is still stuck with them—no products and no refund. This is extremely disappointing and frustrating. The least they can do is process the refund promptly instead of holding customers’ money for days.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 200000, Requested 2313. Please try again in 16m39.216s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "31bc4ace-84cc-43d9-b74e-554d7883a1d1",
+        "source": "play_store",
+        "text": "i placed my order on 25th july,and it was supposed to be delivered by 29th july. however, the delivery kept getting postponed with no proper updates. from the day i placed the order, the tracking showed my package stuck at the same location for 12 days. who waits over 12 days for beauty products? it is extremely frustrating. the worst part was that i couldn't even cancel the order, and i wasn't receiving my product either.this is a very disappointing experience and reflect poor customer service.",
+        "score": 1,
+        "timestamp": "2026-08-07 16:40:06",
+        "author": "lolenmakla sempo",
+        "original_text": "I placed my order on 25th July,and it was supposed to be delivered by 29th July. However, the delivery kept getting postponed with no proper updates. From the day I placed the order, the tracking showed my package stuck at the same location for 12 days. Who waits over 12 days for beauty products? It is extremely frustrating. The worst part was that I couldn't even cancel the order, and I wasn't receiving my product either.This is a very disappointing experience and reflect poor customer service.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 200000, Requested 320. Please try again in 2m18.24s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "6df25965-ec85-44a1-b2a8-91e3b4184b79",
+        "source": "play_store",
+        "text": "extremely disappointing and unacceptable. my order was delivered in 2 shipments, and one shipment was supposed to contain 21 items but had only 3 products inside, including 1 free gift. 19 paid products were missing! a huge waste of money, time and effort. customer service has been extremely unhelpful and has not provided a proper resolution. nykaa seriously needs to improve its packing and customer support. this is completely a fraud. want immediate action on this.",
+        "score": 1,
+        "timestamp": "2026-08-14 22:01:10",
+        "author": "Sebastiana Fernandes",
+        "original_text": "Extremely disappointing and unacceptable. My order was delivered in 2 shipments, and one shipment was supposed to contain 21 items but had only 3 products inside, including 1 free gift. 19 paid products were missing! A huge waste of money, time and effort. Customer service has been extremely unhelpful and has not provided a proper resolution. Nykaa seriously needs to improve its packing and customer support. This is completely a fraud. Want immediate action on this.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 200000, Requested 307. Please try again in 2m12.624s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "a0186952-8d7b-4d47-9fb5-d81f4ef63827",
+        "source": "play_store",
+        "text": "their delivery service is the worst. i ordered a product about a week ago and not only did it not get delivered, the reason stated was that i was unavailable to collect it. they kept playing the game of reattempting delivery and a product that was scheduled to be delivered in 3 days is now being returned without informing me, the customer. this is not the first time this has happened because i have had to cancel some of my previous orders because of their carelessness in handling these things.",
+        "score": 1,
+        "timestamp": "2026-08-10 17:09:58",
+        "author": "sunanda ranjan",
+        "original_text": "Their delivery service is the worst. I ordered a product about a week ago and not only did it not get delivered, the reason stated was that I was unavailable to collect it. They kept playing the game of reattempting delivery and a product that was scheduled to be delivered in 3 days is now being returned without informing me, the customer. This is not the first time this has happened because I have had to cancel some of my previous orders because of their carelessness in handling these things.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 200000, Requested 309. Please try again in 2m13.488s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "b3580a7e-6f3e-4875-b859-4552bc9b662b",
+        "source": "play_store",
+        "text": "i placed an order on nykaa, but even after 34 days past the expected delivery date, my product has still not been delivered. whenever i contact the chat support, they do not provide any proper or useful update. every day, the nykaa app simply shows that the product will be delivered today or tomorrow, but there is no actual progress. the customer support service has been extremely disappointing. even cancelling the order was unnecessarily difficult. overall, i am very disappointed",
+        "score": 1,
+        "timestamp": "2026-08-13 23:30:37",
+        "author": "Athira Cd",
+        "original_text": "I placed an order on Nykaa, but even after 3–4 days past the expected delivery date, my product has still not been delivered. Whenever I contact the chat support, they do not provide any proper or useful update. Every day, the Nykaa app simply shows that the product will be delivered “today” or “tomorrow,” but there is no actual progress. The customer support service has been extremely disappointing. Even cancelling the order was unnecessarily difficult. Overall, I am very disappointed",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 200000, Requested 2322. Please try again in 16m43.104s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "a90997b2-9997-4d22-b80f-b1d6ed031bf7",
+        "source": "play_store",
+        "text": "committed fraud. they show products in stock when they're not and then don't deliver and don't even bother cancelling the order on their end. they kept the money until i called them to ask why there was a delay and only then they bothered mentioning that the product is not there. customer service is dumb and thinks \"i don't know\" is an acceptable answer to these queries. it's the job of a cs to know and find out at least. their website shouldn't be this shoddy for a multi-million dollar company.",
+        "score": 1,
+        "timestamp": "2026-08-12 11:29:21",
+        "author": "Anu",
+        "original_text": "Committed FRAUD. They show products in stock when they're not and then don't deliver and don't even bother cancelling the order on their end. They kept the money until I called them to ask why there was a delay and only then they bothered mentioning that the product is not there. Customer service is dumb and thinks \"I don't know\" is an acceptable answer to these queries. It's the job of a CS to know and find out at least. Their website shouldn't be this shoddy for a multi-million dollar company.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 200000, Requested 2334. Please try again in 16m48.288s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "5a70a443-e82a-4aa4-b649-e239cacb46e0",
+        "source": "play_store",
+        "text": "i've had a great experience with the nykaa app. it is easy to use, offers a wide range of genuine beauty and skincare products, and the delivery is usually quick. the discounts and offers are good, and the packaging is always secure. overall, it's a reliable app for shopping for beauty products. i would love to see even more exclusive deals and faster customer support.",
+        "score": 5,
+        "timestamp": "2026-08-07 18:32:23",
+        "author": "Pranjali Chorge",
+        "original_text": "I've had a great experience with the Nykaa app. It is easy to use, offers a wide range of genuine beauty and skincare products, and the delivery is usually quick. The discounts and offers are good, and the packaging is always secure. Overall, it's a reliable app for shopping for beauty products. I would love to see even more exclusive deals and faster customer support.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 200000, Requested 286. Please try again in 2m3.552s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "d12f9fbf-4c49-4f4a-bd9c-09486b1b59cc",
+        "source": "play_store",
+        "text": "tbh i won't even give one star. i'm raising the issue as i didn't get my product. no response from customer support and when i give ratings in the play store, they respond to you to raise issues to their gmail, trust me that also doesn't work. i haven't got my product yet. once your product is gone it's gone. instead i ordered amazon which gave the product the next day itself. irresponsible and worst thing i have ever seen.",
+        "score": 1,
+        "timestamp": "2026-08-08 15:45:08",
+        "author": "Harini Prabhuram",
+        "original_text": "tbh I won't even give one star. I'm raising the issue as I didn't get my product. No response from Customer support and when I give ratings in the play store, they respond to you to raise issues to their gmail, trust me that also doesn't work. I haven't got my product yet. once your product is gone it's gone. instead I ordered Amazon which gave the product the next Day itself. irresponsible and worst thing I have ever seen.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 200000, Requested 305. Please try again in 2m11.76s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "52e699a3-0f9c-42e0-9756-65f5cddc5879",
+        "source": "play_store",
+        "text": "nykaa is a really convenient and user-friendly app for beauty and skincare shopping. the product range is amazing, with options for every budget and skin type. delivery is usually on time, and the packaging is neat and secure. i also like the frequent discounts and offers, which make shopping more affordable. overall, a great app for beauty loversjust hoping for even faster delivery and more budget-friendly deals in the future!",
+        "score": 5,
+        "timestamp": "2026-07-18 18:45:08",
+        "author": "Sehar Javaid",
+        "original_text": "Nykaa is a really convenient and user-friendly app for beauty and skincare shopping. The product range is amazing, with options for every budget and skin type. Delivery is usually on time, and the packaging is neat and secure. I also like the frequent discounts and offers, which make shopping more affordable. Overall, a great app for beauty lovers—just hoping for even faster delivery and more budget-friendly deals in the future!",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199999, Requested 2309. Please try again in 16m37.056s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "21b440cc-860f-4de0-a5b7-f4ff47c2e65b",
+        "source": "play_store",
+        "text": "order placed on 19 july, and even after 23 days i neither received my parcel nor refund. customer care promised emergency delivery within 48 hours, but failed to deliver. later i was asked to wait another 57 days, so i cancelled. emails get no proper response and calls aren't answered. extremely frustrating experience. if you're placing a prepaid order on nykaa, think twice before paying! i definitely won't be comfortable placing another prepaid order here.",
+        "score": 1,
+        "timestamp": "2026-08-11 22:16:52",
+        "author": "Khushi Kahar",
+        "original_text": "Order placed on 19 July, and even after 23+ days I neither received my parcel nor refund. Customer care promised emergency delivery within 48 hours, but failed to deliver. Later I was asked to wait another 5–7 days, so I cancelled. Emails get no proper response and calls aren't answered. Extremely frustrating experience. If you're placing a prepaid order on Nykaa, think twice before paying! I definitely won't be comfortable placing another prepaid order here.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199999, Requested 2325. Please try again in 16m43.968s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "e3cabaa8-fd5e-49bc-a862-b20816830bf8",
+        "source": "play_store",
+        "text": "i gave nykaa five stars before. but with the recent order, i am really disappointed. the order shows out for delivery but the agent doesn't even call and cancels my order and says that they will try to deliver it in the next 24 to 48 hours. this same thing has been happening for the last three days! the delivery agent doesn't call and if it calls they don't respond from the other side! the worst customer service. when i called and talked about the issue, they cut the call! really disappointed",
+        "score": 1,
+        "timestamp": "2026-07-03 11:31:13",
+        "author": "Asha Vishwakarma",
+        "original_text": "​I gave Nykaa five stars before. But with the recent order, I am really disappointed. The order shows out for delivery but the agent doesn't even call and cancels my order and says that they will try to deliver it in the next 24 to 48 hours. This same thing has been happening for the last three days! The delivery agent doesn't call and if it calls they don't respond from the other side! The worst customer service. When I called and talked about the issue, they cut the call! Really disappointed",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199999, Requested 2337. Please try again in 16m49.151999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "3518cbb5-36ef-4275-bd44-4ffe83eabe4a",
+        "source": "play_store",
+        "text": "i have never used a worse app than nykaa. i keep receiving so many promotional messages from nykaa, but when i actually need help tracking my order, the customer support is not helpful at all. it's been many days, and i still haven't received my order. the tracking hasn't updated since 11 july, and my package is still showing the same location. this delay is completely unacceptable. please provide an immediate update on my order and ensure it is delivered asap possible. already i have mailed",
+        "score": 1,
+        "timestamp": "2026-07-26 07:28:53",
+        "author": "Sanjay Gupta",
+        "original_text": "I have never used a worse app than Nykaa. I keep receiving so many promotional messages from Nykaa, but when I actually need help tracking my order, the customer support is not helpful at all. It's been many days, and I still haven't received my order. The tracking hasn't updated since 11 July, and my package is still showing the same location. This delay is completely unacceptable. Please provide an immediate update on my order and ensure it is delivered asap possible. already i have mailed",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199999, Requested 2331. Please try again in 16m46.56s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "6b88ca9c-7203-4c52-92d1-bf84919d2024",
+        "source": "play_store",
+        "text": "i had a very disappointing experience with nykaa. this was my first time ordering beauty products from the app, and it has been extremely frustrating. my order has been delayed for 11 days, and there have been no updates on the order status in the app. i contacted the customer support team repeatedly for 34 days. they only kept raising complaints but did not provide any resolution or useful updates.i requested to cancel my order, but even the cancellation was not processed or updated. very bad.",
+        "score": 1,
+        "timestamp": "2026-07-16 21:09:31",
+        "author": "Neha Gupta",
+        "original_text": "I had a very disappointing experience with Nykaa. This was my first time ordering beauty products from the app, and it has been extremely frustrating. My order has been delayed for 11 days, and there have been no updates on the order status in the app. I contacted the customer support team repeatedly for 3–4 days. They only kept raising complaints but did not provide any resolution or useful updates.I requested to cancel my order, but even the cancellation was not processed or updated. very bad.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199999, Requested 310. Please try again in 2m13.488s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "bd8adee7-179f-431c-85b4-92a1b961d6d0",
+        "source": "play_store",
+        "text": "i had an extremely disappointing experience with this app. i ordered a lipstick, but when it arrived, i realized the shade was far too light for my skin tone. i didn't even open or use the product and immediately submitted a return request. to my surprise, my request was rejected without any reasonable explanation. what makes this even more frustrating is that the app prominently advertises \"easy returns\" during the purchase process. in reality, this claim is misleading.",
+        "score": 1,
+        "timestamp": "2026-07-03 18:16:17",
+        "author": "pragati goyal",
+        "original_text": "I had an extremely disappointing experience with this app. I ordered a lipstick, but when it arrived, I realized the shade was far too light for my skin tone. I didn't even open or use the product and immediately submitted a return request. To my surprise, my request was rejected without any reasonable explanation. What makes this even more frustrating is that the app prominently advertises \"easy returns\" during the purchase process. In reality, this claim is misleading.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199999, Requested 301. Please try again in 2m9.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "b4f37cc0-dc35-4de2-ae43-1af8db7e88a0",
+        "source": "play_store",
+        "text": "great app.. the delivery timelines of nykaa have been very bad off-late. from the past several orders, i noted that the estimated delivery date is shown within 2-3 days of placing the order, but the order is not even dispatched until 4-5 days. the deliveries now take more than a week, i am not sure what has gone wrong but this is a repetitive pattern now. earlier the deliveries were made within 2-3 days.",
+        "score": 2,
+        "timestamp": "2026-07-01 10:30:26",
+        "author": "Akanksha Kedia",
+        "original_text": "Great app.. The delivery timelines of nykaa have been very bad off-late. From the past several orders, I noted that the estimated delivery date is shown within 2-3 days of placing the order, but the order is not even dispatched until 4-5 days. the deliveries now take more than a week, I am not sure what has gone wrong but this is a repetitive pattern now. Earlier the deliveries were made within 2-3 days.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199999, Requested 303. Please try again in 2m10.464s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "76547226-a35a-4f47-8485-c8d080315d0c",
+        "source": "play_store",
+        "text": "i used this app for the first time from which ordered 3 products, and none of them were delivered and later got cancelled. then i ordered the same products again and again they couldn't deliver and kept delaying again and again. though this app has variety of products but delivery services are the worst for this app. i have never experienced such inconvenience ever from such a hyped platform.",
+        "score": 1,
+        "timestamp": "2026-06-09 13:06:16",
+        "author": "navjot kaur",
+        "original_text": "I used this app for the first time from which ordered 3 products, and none of them were delivered and later got cancelled. then I ordered the same products again and again they couldn't deliver and kept delaying again and again. though this app has variety of products but delivery services are the worst for this app. I have never experienced such inconvenience ever from such a hyped platform.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199999, Requested 2303. Please try again in 16m34.464s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    },
+    {
+        "id": "22b7c94d-4ec2-4a2e-9f46-ccca13bda06b",
+        "source": "play_store",
+        "text": "this was my first time ordering from nykaa and honestly it has been a very disappointing experience. i placed an order and only received partial delivery. more than 4 items are still not delivered even after 1 week. the expected delivery date keeps changing every single day in the app. i also raised a complaint regarding the delayed order, but now when i try to check the status, the app is showing that no order was placed at all, even though i already made the full payment.",
+        "score": 1,
+        "timestamp": "2026-05-21 11:26:22",
+        "author": "nisha jaiswal",
+        "original_text": "This was my first time ordering from Nykaa and honestly it has been a very disappointing experience. I placed an order and only received partial delivery. More than 4 items are still not delivered even after 1 week. The expected delivery date keeps changing every single day in the app. I also raised a complaint regarding the delayed order, but now when I try to check the status, the app is showing that no order was placed at all, even though I already made the full payment.",
+        "groq_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.6-27b` in organization `org_01ksdk7ne9f5vvm3tdgcc8ss93` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199999, Requested 2324. Please try again in 16m43.536s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+    }
+]

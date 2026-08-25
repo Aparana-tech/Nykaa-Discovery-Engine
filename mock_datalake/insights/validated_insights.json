@@ -1,0 +1,388 @@
+[
+  {
+    "rank": 2,
+    "cluster_id": 3,
+    "friction_point": "general experience (negative)",
+    "barrier_type": "None",
+    "composite_score": 0.6142,
+    "priority": "\ud83d\udfe0 HIGH",
+    "scores_breakdown": {
+      "volume": {
+        "raw": 26,
+        "normalized": 0.52
+      },
+      "severity": {
+        "raw_sentiment": "negative",
+        "normalized": 1.0
+      },
+      "cross_platform": {
+        "sources": [
+          "play",
+          "youtube"
+        ],
+        "count": 2,
+        "normalized": 0.5
+      },
+      "dropoff_correlation": {
+        "revenue_at_risk_monthly": 6174000.0,
+        "normalized": 0.062
+      }
+    },
+    "business_impact": {
+      "estimated_monthly_revenue_at_risk": 6174000.0,
+      "estimated_annual_revenue_at_risk": 74088000.0,
+      "estimated_conversion_uplift_if_fixed": "\u20b93.6Cr+ annual recovery potential",
+      "funnel_stage": "Unknown",
+      "affected_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ]
+    },
+    "evidence": {
+      "review_count": 26,
+      "sample_quotes": [
+        "\ud83d\ude0d\ud83d\ude0d",
+        "\ud83d\udc4c",
+        "\u2764"
+      ],
+      "platforms": [
+        "play",
+        "youtube"
+      ],
+      "cross_platform_validated": true
+    },
+    "model_b_verification": "Passed",
+    "operational_verification": "Passed",
+    "validation_status": "Verified"
+  },
+  {
+    "rank": 4,
+    "cluster_id": 132,
+    "friction_point": "general experience (negative)",
+    "barrier_type": "Taxonomy Disconnect",
+    "composite_score": 0.4608,
+    "priority": "\ud83d\udfe1 MEDIUM",
+    "scores_breakdown": {
+      "volume": {
+        "raw": 11,
+        "normalized": 0.22
+      },
+      "severity": {
+        "raw_sentiment": "negative",
+        "normalized": 0.824
+      },
+      "cross_platform": {
+        "sources": [
+          "app",
+          "play"
+        ],
+        "count": 2,
+        "normalized": 0.5
+      },
+      "dropoff_correlation": {
+        "revenue_at_risk_monthly": 25740000.0,
+        "normalized": 0.257
+      }
+    },
+    "business_impact": {
+      "estimated_monthly_revenue_at_risk": 25740000.0,
+      "estimated_annual_revenue_at_risk": 308880000.0,
+      "estimated_conversion_uplift_if_fixed": "\u20b913.5Cr+ annual recovery potential",
+      "funnel_stage": "Search & Navigation",
+      "affected_categories": [
+        "Ethnic Wear (Sarees, Kurtas, Lehengas)",
+        "Accessories (Bags, Jewelry, Watches)"
+      ]
+    },
+    "evidence": {
+      "review_count": 11,
+      "sample_quotes": [
+        "Pathetic service , way too with its service and no response on customer care calls , or messages or mails . No point of contact and all , orders takes",
+        "The worst experience with this app. When I placed my order, it showed 90-minute delivery, but the order kept getting delayed repeatedly for an entire ",
+        "I used this app for the first time from which ordered 3 products, and none of them were delivered and later got cancelled. then I ordered the same pro"
+      ],
+      "platforms": [
+        "app",
+        "play"
+      ],
+      "cross_platform_validated": true
+    },
+    "model_b_verification": "Passed",
+    "operational_verification": "Passed",
+    "validation_status": "Verified"
+  },
+  {
+    "rank": 8,
+    "cluster_id": 106,
+    "friction_point": "general experience (negative)",
+    "barrier_type": "None",
+    "composite_score": 0.4302,
+    "priority": "\ud83d\udfe1 MEDIUM",
+    "scores_breakdown": {
+      "volume": {
+        "raw": 3,
+        "normalized": 0.06
+      },
+      "severity": {
+        "raw_sentiment": "negative",
+        "normalized": 1.0
+      },
+      "cross_platform": {
+        "sources": [
+          "app",
+          "play"
+        ],
+        "count": 2,
+        "normalized": 0.5
+      },
+      "dropoff_correlation": {
+        "revenue_at_risk_monthly": 6174000.0,
+        "normalized": 0.062
+      }
+    },
+    "business_impact": {
+      "estimated_monthly_revenue_at_risk": 6174000.0,
+      "estimated_annual_revenue_at_risk": 74088000.0,
+      "estimated_conversion_uplift_if_fixed": "\u20b93.2Cr+ annual recovery potential",
+      "funnel_stage": "Unknown",
+      "affected_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ]
+    },
+    "evidence": {
+      "review_count": 3,
+      "sample_quotes": [
+        "Very bad services worst app ever",
+        "it's very terrible app",
+        "very bad & worst app"
+      ],
+      "platforms": [
+        "app",
+        "play"
+      ],
+      "cross_platform_validated": true
+    },
+    "model_b_verification": "Passed",
+    "operational_verification": "Passed",
+    "validation_status": "Verified"
+  },
+  {
+    "rank": 9,
+    "cluster_id": 60,
+    "friction_point": "product condition (negative)",
+    "barrier_type": "None",
+    "composite_score": 0.4302,
+    "priority": "\ud83d\udfe1 MEDIUM",
+    "scores_breakdown": {
+      "volume": {
+        "raw": 3,
+        "normalized": 0.06
+      },
+      "severity": {
+        "raw_sentiment": "negative",
+        "normalized": 1.0
+      },
+      "cross_platform": {
+        "sources": [
+          "play",
+          "youtube"
+        ],
+        "count": 2,
+        "normalized": 0.5
+      },
+      "dropoff_correlation": {
+        "revenue_at_risk_monthly": 6174000.0,
+        "normalized": 0.062
+      }
+    },
+    "business_impact": {
+      "estimated_monthly_revenue_at_risk": 6174000.0,
+      "estimated_annual_revenue_at_risk": 74088000.0,
+      "estimated_conversion_uplift_if_fixed": "\u20b93.2Cr+ annual recovery potential",
+      "funnel_stage": "Unknown",
+      "affected_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ]
+    },
+    "evidence": {
+      "review_count": 3,
+      "sample_quotes": [
+        "\u092e\u0941\u091d\u0947 used product \u0926\u093f\u092f\u093e \u0939\u0948,  \u0914\u0930 return and refund \u0928\u0939\u0940\u0902 \u0915\u0930\u0924\u0947 Nykaa \u0935\u093e\u0932\u0947\u0964",
+        "\u092e\u0941\u091d\u0947 used product \u0926\u093f\u092f\u093e \u0939\u0948,  \u0914\u0930 return and refund \u0928\u0939\u0940\u0902 \u0915\u0930\u0924\u0947 Nykaa \u0935\u093e\u0932\u0947\u0964",
+        "bhut hi bekar hai product return nahi karta or sahi saman bhi nhi bheja 1 item short nikla h"
+      ],
+      "platforms": [
+        "play",
+        "youtube"
+      ],
+      "cross_platform_validated": true
+    },
+    "model_b_verification": "Passed",
+    "operational_verification": "Passed",
+    "validation_status": "Verified"
+  },
+  {
+    "rank": 10,
+    "cluster_id": 57,
+    "friction_point": "general experience (negative)",
+    "barrier_type": "None",
+    "composite_score": 0.4302,
+    "priority": "\ud83d\udfe1 MEDIUM",
+    "scores_breakdown": {
+      "volume": {
+        "raw": 3,
+        "normalized": 0.06
+      },
+      "severity": {
+        "raw_sentiment": "negative",
+        "normalized": 1.0
+      },
+      "cross_platform": {
+        "sources": [
+          "play",
+          "youtube"
+        ],
+        "count": 2,
+        "normalized": 0.5
+      },
+      "dropoff_correlation": {
+        "revenue_at_risk_monthly": 6174000.0,
+        "normalized": 0.062
+      }
+    },
+    "business_impact": {
+      "estimated_monthly_revenue_at_risk": 6174000.0,
+      "estimated_annual_revenue_at_risk": 74088000.0,
+      "estimated_conversion_uplift_if_fixed": "\u20b93.2Cr+ annual recovery potential",
+      "funnel_stage": "Unknown",
+      "affected_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ]
+    },
+    "evidence": {
+      "review_count": 3,
+      "sample_quotes": [
+        "Ek bi accha nhi hai",
+        "bohot bekar app hi odar nhi ata hai call bhi nhi uthte hi",
+        "service acha nehi ye app achha nehi hai"
+      ],
+      "platforms": [
+        "play",
+        "youtube"
+      ],
+      "cross_platform_validated": true
+    },
+    "model_b_verification": "Passed",
+    "operational_verification": "Passed",
+    "validation_status": "Verified"
+  },
+  {
+    "rank": 95,
+    "cluster_id": 5,
+    "friction_point": "length (neutral)",
+    "barrier_type": "Fit/Fabric Uncertainty",
+    "composite_score": 0.3272,
+    "priority": "\ud83d\udfe1 MEDIUM",
+    "scores_breakdown": {
+      "volume": {
+        "raw": 3,
+        "normalized": 0.06
+      },
+      "severity": {
+        "raw_sentiment": "neutral",
+        "normalized": 0.533
+      },
+      "cross_platform": {
+        "sources": [
+          "youtube",
+          "internal"
+        ],
+        "count": 2,
+        "normalized": 0.5
+      },
+      "dropoff_correlation": {
+        "revenue_at_risk_monthly": 43218000.0,
+        "normalized": 0.432
+      }
+    },
+    "business_impact": {
+      "estimated_monthly_revenue_at_risk": 43218000.0,
+      "estimated_annual_revenue_at_risk": 518616000.0,
+      "estimated_conversion_uplift_if_fixed": "\u20b920.6Cr+ annual recovery potential",
+      "funnel_stage": "Pre-Purchase Decision",
+      "affected_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ]
+    },
+    "evidence": {
+      "review_count": 3,
+      "sample_quotes": [
+        "Q: I am 5'4, will this dress touch the floor? A: No, it hits just above the ankle for someone 5'4.",
+        "Q: I am 5'4, will this dress touch the floor? A: No, it hits just above the ankle for someone 5'4.",
+        "HAHAHAHA! I'm 5'6\" and i wear the Cava Tall Pants Version. Being a bit above than a tall girlie, it is a blessing! \ud83d\ude05\ud83d\ude02 Because othwise, all the shirt ("
+      ],
+      "platforms": [
+        "youtube",
+        "internal"
+      ],
+      "cross_platform_validated": true
+    },
+    "model_b_verification": "Passed",
+    "operational_verification": "Passed",
+    "validation_status": "Verified"
+  },
+  {
+    "rank": 119,
+    "cluster_id": 15,
+    "friction_point": "general experience (positive)",
+    "barrier_type": "None",
+    "composite_score": 0.1302,
+    "priority": "\ud83d\udfe2 LOW",
+    "scores_breakdown": {
+      "volume": {
+        "raw": 3,
+        "normalized": 0.06
+      },
+      "severity": {
+        "raw_sentiment": "positive",
+        "normalized": 0.0
+      },
+      "cross_platform": {
+        "sources": [
+          "app",
+          "play"
+        ],
+        "count": 2,
+        "normalized": 0.5
+      },
+      "dropoff_correlation": {
+        "revenue_at_risk_monthly": 6174000.0,
+        "normalized": 0.062
+      }
+    },
+    "business_impact": {
+      "estimated_monthly_revenue_at_risk": 6174000.0,
+      "estimated_annual_revenue_at_risk": 74088000.0,
+      "estimated_conversion_uplift_if_fixed": "\u20b92.5Cr+ annual recovery potential",
+      "funnel_stage": "Unknown",
+      "affected_categories": [
+        "Western Wear (Dresses, Tops, Jeans)"
+      ]
+    },
+    "evidence": {
+      "review_count": 3,
+      "sample_quotes": [
+        "vgood",
+        "v good sarves h",
+        "v good"
+      ],
+      "platforms": [
+        "app",
+        "play"
+      ],
+      "cross_platform_validated": true
+    },
+    "model_b_verification": "Passed",
+    "operational_verification": "Passed",
+    "validation_status": "Verified"
+  }
+]
