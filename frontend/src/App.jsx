@@ -122,7 +122,7 @@ function App() {
                     <span style={{fontSize: '0.9rem'}}>60%</span>
                   </div>
                   <div className="progress-track"><div className="progress-fill" style={{width: '60%', background: 'var(--danger)'}}></div></div>
-                  <p style={{color: 'var(--text-muted)', fontSize: '0.75rem', marginTop: '6px'}}><strong>(52% driven by Fit & Fabric Uncertainty)</strong> and choice paralysis.</p>
+                  <p style={{color: 'var(--text-muted)', fontSize: '0.75rem', marginTop: '6px'}}><strong>(52% driven by Fit & Fabric Uncertainty)</strong> and remaining by choice paralysis.</p>
                 </div>
               </div>
 
