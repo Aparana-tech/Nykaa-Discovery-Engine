@@ -104,6 +104,7 @@ function App() {
                     <span style={{fontSize: '0.9rem'}}>12%</span>
                   </div>
                   <div className="progress-track"><div className="progress-fill" style={{width: '12%', background: 'var(--success)'}}></div></div>
+                  <p style={{color: 'var(--text-muted)', fontSize: '0.75rem', marginTop: '6px'}}>Driven by brand loyalty and successful size matching.</p>
                 </div>
 
                 <div className="progress-container">
@@ -112,6 +113,7 @@ function App() {
                     <span style={{fontSize: '0.9rem'}}>28%</span>
                   </div>
                   <div className="progress-track"><div className="progress-fill" style={{width: '28%', background: '#fcd34d'}}></div></div>
+                  <p style={{color: 'var(--text-muted)', fontSize: '0.75rem', marginTop: '6px'}}>Driven by wishlist hoarding and browsing intent.</p>
                 </div>
 
                 <div className="progress-container">
@@ -120,6 +122,7 @@ function App() {
                     <span style={{fontSize: '0.9rem'}}>60%</span>
                   </div>
                   <div className="progress-track"><div className="progress-fill" style={{width: '60%', background: 'var(--danger)'}}></div></div>
+                  <p style={{color: 'var(--text-muted)', fontSize: '0.75rem', marginTop: '6px'}}>Driven by fit/fabric uncertainty and choice paralysis.</p>
                 </div>
               </div>
 
