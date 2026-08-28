@@ -69,7 +69,7 @@ export default function Chatbot() {
       let data;
       
       while (retries > 0) {
-        response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
+        response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${GEMINI_API_KEY}`, {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
