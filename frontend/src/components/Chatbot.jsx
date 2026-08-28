@@ -75,7 +75,7 @@ export default function Chatbot() {
             'Content-Type': 'application/json',
           },
           body: JSON.stringify({
-            system_instruction: {
+            systemInstruction: {
               parts: [{ text: systemPrompt }]
             },
             contents: contents,
