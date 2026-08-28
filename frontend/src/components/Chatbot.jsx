@@ -105,7 +105,7 @@ export default function Chatbot() {
       setMessages(prev => [...prev, { role: 'assistant', content: botResponse }]);
     } catch (error) {
       console.error("Chatbot Error:", error);
-      setMessages(prev => [...prev, { role: 'assistant', content: "Sorry, I encountered an error connecting to the AI. Please check the API key and try again." }]);
+      setMessages(prev => [...prev, { role: 'assistant', content: `API Error: ${error.message}\n\nTip: Make sure your VITE_GEMINI_API_KEY is correct in Railway Variables and you triggered a Redeploy.` }]);
     } finally {
       setIsLoading(false);
     }
