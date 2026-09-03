@@ -1,6 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import insightsData from '../data/validated_insights.json';
 import matrixData from '../data/prioritization_matrix.json';
+import evaluatorAnswers from '../data/evaluator_answers.json';
 
 const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
 
@@ -47,6 +48,9 @@ export default function Chatbot() {
       
       Prioritization Matrix:
       ${JSON.stringify(matrixData, null, 2)}
+      
+      Evaluator Assignment Questions & Answers:
+      ${JSON.stringify(evaluatorAnswers, null, 2)}
       
       CRITICAL INSTRUCTION: Keep your answers concise and informative. Aim for 3 to 4 well-structured sentences. 
       Get straight to the point without any fluff. Directly reference the data when possible.

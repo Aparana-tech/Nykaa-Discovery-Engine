@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Why do users add fashion products to their wishlist?",
+    "answer": "Users use the wishlist primarily as a holding area for products they are interested in but lack the confidence to purchase immediately. It acts as a bookmarking tool while they resolve uncertainties regarding fit, fabric, or wait for a price drop."
+  },
+  {
+    "question": "What prevents wishlisted products from eventually being purchased?",
+    "answer": "The primary barrier (52%) is Fit and Fabric Uncertainty (e.g., sheerness, material quality), followed by Choice Paralysis (28%) caused by inconsistent sizing across brands, and Post-Purchase Anxiety regarding strict return policies."
+  },
+  {
+    "question": "What uncertainties remain after users have identified a product they like?",
+    "answer": "Users remain uncertain about how the fabric will drape on their specific body type, whether the true color in natural lighting matches the studio photography, and whether the brand's sizing aligns with their actual measurements."
+  },
+  {
+    "question": "What causes users to postpone a purchase?",
+    "answer": "Purchases are postponed when users feel the need to seek external validation (like searching for YouTube haul videos to see the fabric in motion) or when they are waiting for a sale to offset the perceived risk of the garment not fitting correctly."
+  },
+  {
+    "question": "How do users compare multiple shortlisted products?",
+    "answer": "Users compare products by looking for detailed visual evidence. They heavily rely on user-generated content (UGC) and customer review photos to compare how different garments look on real bodies with similar body types to their own."
+  },
+  {
+    "question": "What information do users seek outside the platform before purchasing?",
+    "answer": "Users frequently leave the app to search YouTube and Reddit for 'haul' videos and unfiltered reviews. They seek video evidence of the fabric's stretch, transparency, and movement in natural lighting."
+  },
+  {
+    "question": "What role do fit, size, styling, price, reviews, occasion and social validation play?",
+    "answer": "Fit and size are the ultimate dealbreakers. Price acts as a risk-mitigator (users tolerate poor fit better if cheap). Occasion drives urgency (e.g., ethnic wear for weddings). Reviews and social validation are the primary tools used to bridge the gap between studio photos and reality."
+  },
+  {
+    "question": "When do users use the wishlist as genuine purchase intent versus simply as a bookmarking mechanism?",
+    "answer": "Genuine intent occurs when items are wishlisted for specific upcoming occasions (e.g., ethnic wear for Diwali), whereas bookmarking happens when users are idly browsing trends or waiting to see if a high-priced item goes on clearance."
+  },
+  {
+    "question": "How do these behaviors differ across user segments?",
+    "answer": "Gen Z shoppers are highly sensitive to aesthetic trends and rely heavily on Reddit/YouTube hauls for validation. Older or high-intent shoppers (buying Ethnic Wear) are more sensitive to delivery timelines and strict return policies."
+  },
+  {
+    "question": "What unmet needs emerge consistently across user conversations?",
+    "answer": "The most consistent unmet need is the desire for 'phygital' validation—the ability to confidently gauge the physical properties of a garment (stretch, sheer, drape) through a digital interface, leading to the need for features like 'AI Video Calibration'."
+  }
+]
