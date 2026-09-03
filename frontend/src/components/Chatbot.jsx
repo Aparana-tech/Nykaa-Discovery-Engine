@@ -48,7 +48,7 @@ export default function Chatbot() {
       Prioritization Matrix:
       ${JSON.stringify(matrixData, null, 2)}
       
-      CRITICAL INSTRUCTION: Keep your answers EXTREMELY short and concise. Do NOT exceed 1-3 sentences. 
+      CRITICAL INSTRUCTION: Keep your answers concise and informative. Aim for 3 to 4 well-structured sentences. 
       Get straight to the point without any fluff. Directly reference the data when possible.
       Format your response with standard markdown (bolding).
       `;
