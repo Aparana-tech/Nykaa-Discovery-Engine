@@ -133,6 +133,34 @@ export default function Chatbot() {
         )}
       </button>
 
+      {/* Floating Label */}
+      {!isOpen && (
+        <div 
+          onClick={() => setIsOpen(true)}
+          style={{
+            position: 'fixed',
+            bottom: '42px',
+            left: '105px',
+            background: 'var(--primary)', 
+            color: 'white', 
+            padding: '8px 16px', 
+            borderRadius: '20px', 
+            fontWeight: '600', 
+            fontSize: '0.95rem',
+            cursor: 'pointer',
+            boxShadow: '0 4px 15px rgba(232, 0, 113, 0.4)',
+            zIndex: 1000,
+            animation: 'fadeIn 0.5s ease',
+            display: 'flex',
+            alignItems: 'center',
+            gap: '8px'
+          }}
+        >
+          Ask Me Questions 
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>
+        </div>
+      )}
+
       {/* Chat Window */}
       {isOpen && (
         <div className="chatbot-window">
