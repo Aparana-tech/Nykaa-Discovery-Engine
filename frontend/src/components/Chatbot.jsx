@@ -138,7 +138,7 @@ export default function Chatbot() {
         <div className="chatbot-window">
           <div className="chatbot-header">
             <div>
-              <h3>Discovery AI</h3>
+              <h3>Ask Me Questions</h3>
               <span className="status">● Online</span>
             </div>
           </div>
