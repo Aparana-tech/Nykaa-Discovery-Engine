@@ -10,7 +10,7 @@ const MetricCard = ({ title, value, subtitle, icon, delayClass }) => {
         </div>
       </div>
       <div>
-        <div style={{fontSize: '2.2rem', fontWeight: '700', color: 'var(--text-main)', marginBottom: '4px'}}>
+        <div style={{fontSize: 'clamp(1.4rem, 2.5vw, 2.2rem)', fontWeight: '700', color: 'var(--text-main)', marginBottom: '4px', wordBreak: 'break-word', letterSpacing: '-0.5px'}}>
           {value}
         </div>
         <div style={{fontSize: '0.9rem', color: 'var(--text-muted)'}}>
