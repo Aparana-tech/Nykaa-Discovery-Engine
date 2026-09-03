@@ -48,8 +48,9 @@ export default function Chatbot() {
       Prioritization Matrix:
       ${JSON.stringify(matrixData, null, 2)}
       
-      Keep your answers concise, professional, and directly reference the data when possible.
-      Format your response with standard markdown (bolding, lists).
+      CRITICAL INSTRUCTION: Keep your answers EXTREMELY short and concise. Do NOT exceed 1-3 sentences. 
+      Get straight to the point without any fluff. Directly reference the data when possible.
+      Format your response with standard markdown (bolding).
       `;
 
       // Convert our chat history to Gemini's format
@@ -105,7 +106,7 @@ export default function Chatbot() {
       setMessages(prev => [...prev, { role: 'assistant', content: botResponse }]);
     } catch (error) {
       console.error("Chatbot Error:", error);
-      setMessages(prev => [...prev, { role: 'assistant', content: `API Error: ${error.message}\n\nTip: Make sure your VITE_GEMINI_API_KEY is correct in Railway Variables and you triggered a Redeploy.` }]);
+      setMessages(prev => [...prev, { role: 'assistant', content: "I'm currently experiencing high traffic and cannot connect to the server right now. Please try again in a few moments." }]);
     } finally {
       setIsLoading(false);
     }
